@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://simfl-lab.github.io/sitemap.xml
+Sitemap: https://simpl-lab.github.io/sitemap.xml
