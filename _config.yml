@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : "PNU IE" # site tagline that appears below site title in masthead
 name                     : "SimPL Lab"
 description              : "The Simulation & Production Logistics Lab."
-url                      : "https://simfl-lab.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://simpl-lab.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : SimFL-Lab/SimFL-Lab.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : SimPL-Lab/SimPL-Lab.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/SimFL_logo.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/SimFL_logo2.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "SimPL Lab" # overrides the website title displayed in the masthead, use " " for no title
