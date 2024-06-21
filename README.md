@@ -17,9 +17,9 @@ Open blog (ver 1.0)
 ### - set up
 Sign up github -> Install git, Ruby, Jekyll
 ### - For building a new blog 
-clone github blog theme(minimal mistakes) -> make repository(SimFL-Lab.github.io) -> rename the folder (SimFL-Lab.github.io)(maybe not necessary) -> push into repository
+clone github blog theme(minimal mistakes) -> make repository(SimPL-Lab.github.io) -> rename the folder (SimPL-Lab.github.io)(maybe not necessary) -> push into repository
 ### - For updating this blog
-clone this repository(SimFL-Lab.github.io) -> update content -> open cmd -> push into repository (see below process)  
+clone this repository(SimPL-Lab.github.io) -> update content -> open cmd -> push into repository (see below process)  
 **Update would take 5~10 minutes**
 
 ~~~md
