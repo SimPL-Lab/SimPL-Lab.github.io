@@ -10,7 +10,7 @@ Written by Jeongwon Park
 [![Donate to this project using Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://www.buymeacoffee.com/mmistakes)
 
 ## Update note
-### 2022-03-05 update
+### 2024-06-21 update
 Open blog (ver 1.0)
 
 ## Manual
