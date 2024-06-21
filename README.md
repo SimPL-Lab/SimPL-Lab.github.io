@@ -1,4 +1,4 @@
-# How to use [SimFL Lab](https://simfl-lab.github.io/) github blog
+# How to use [SimPL Lab](https://simpl-lab.github.io/) github blog
 Written by Jeongwon Park
 
 ## Based on [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
