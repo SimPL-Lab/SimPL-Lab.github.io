@@ -28,7 +28,7 @@ git remote remove origin
 ~~~
 git remote remove origin (To prevent just in case when you already have remote origin)
 ~~~ 
-git remote add origin https://github.com/SimFL-Lab/SimFL-Lab.github.io.git
+git remote add origin https://github.com/SimPL-Lab/SimPL-Lab.github.io.git
 git add .
 git commit -m "write what is updated"
 ~~~
