@@ -50,15 +50,6 @@ layout: single
 >OR applications: Simulation, Machine learning  
 > <br>
 > <br>
->* __Gwanguk Han__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="/assets/images/Gwanguk_Han.jpg">
->PhD Candidate (MS 2019~2021, PhD Spring 2022~)  
->Research Interest: Analysis and Optimization of Material handling operations in Fabs  
->OR applications: Simulation, Dispatching, Machine learning  
->Teaching assistance (Facilities planning & material handling systems)  
-> <br>
-> <br>
-> <br>
 > <br>
 >* __Jangeun Kim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
@@ -96,32 +87,6 @@ layout: single
 > <br>
 
 ## MS Students
->* __Jungtae Park__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Jeongtae_Park.jpg">
->MS Student (MS Spring 2022~)  
->Research Interest: Material handling  
->OR applications: Simulation and Optimization  
->Teaching assistance (Facilities planning & material handling systems)  
-> <br>
-> <br>  
-> <br>  
->* __Rosi Ana Rahmawati__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->MS Student (MS Spring 2022~)  
->Research Interest: Order Picking   
->OR applications: Simulation optimization, Heuristics, Machine learning  
->[Additional Information](https://www.linkedin.com/in/rosianar) 
-> <br>
-> <br>
-> <br>
->* __Jean Marne Gutierrez__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->MS Student (MS Fall 2022~)  
->Research Interest: Material Handling  
->OR applications: Simulation and Optimization  
-> <br>
-> <br>
-> <br>
 >* __Hyunjung Yoon__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >MS Student (MS Spring 2023~)  
@@ -240,62 +205,77 @@ layout: single
 
 
 ## Former Students
- 
+
+>
+>__Jean Marne Gutierrez__  
+>MS degree (graduated in 2024)  
+>
+>__Rosi Ana Rahmawati__  
+>MS degree (graduated in 2024) 
+>
+>__Jungtae Park__  
+>MS degree (graduated in 2024)  
+>Affiliation: Hwaseung R&A
+>
+>__Gwanguk Han__  
+>PhD candidate (graduated in 2024)  
+>Affiliation: Hanwha Ocean
+>
 >__Jeongwon Park__  
->MS Student (graduated in 2023)  
+>MS degree (graduated in 2023)  
 >Affiliation: Department of Industrial Engineering, Arizona State University  
 > 
 >__Hoyoung Kim__   
->MS Student (graduated in 2023)  
+>MS degree (graduated in 2023)  
 >Affiliation: CJ Logistics Corporation  
 >Division: Optimization Solution Division, Center Optimization Team   
 > 
 >__Gwanguk Han__   
->MS Student (graduated in 2022)  
+>MS degree (graduated in 2022)  
 >Affiliation: Department of Industrial Engineering, Pusan National University  
 >  
 >__Seongpil Kim__   
->MS Student (graduated in 2020)   
+>MS degree (graduated in 2020)   
 >Affiliation: Korea Evaluation Institute Of Industrial Technology (KEIT, 한국산업기술평가관리원)  
 >
 >__Permata Vallentino Eko Joatiko__   
->MS Student (graduated in 2019)  
+>MS degree (graduated in 2019)  
 >Affiliation: PT. Bank Rakyat Indonesia (Persero) Tbk  
 >Division: Enterprise Data Management Division, Big Data Advanced Analytics Team  
 >  
 >__Hoyoung Roh__   
->MS Student (graduated in 2019)   
+>MS degree (graduated in 2019)   
 >Affiliation: Graduate School of Engineering Mastership at Pohang University of Science and Technology  
 >   
 >__Jeongman Lee__   
->MS Student (graduated in 2018)   
+>MS degree (graduated in 2018)   
 >Affiliation: Korea Shipbuilding & Offshore Engineering Co., Ltd.  
 >Division: Advanced Research Center 
 > 
 >__Bosung Kim__   
->MS Student (graduated in 2018)  
+>MS degree (graduated in 2018)  
 >Affiliation: Department of Industrial Engineering, Pusan National University  
 >    
 >__Henokh Yernias Fibrianto__   
->MS Student (graduated in 2018)   
+>MS degree (graduated in 2018)   
 >Affiliation: GrabTaxi Holdings Pte. Ltd Singapore    
 >   
 >__Jihyeon Kim__   
->MS Student (graduated in 2018)   
+>MS degree (graduated in 2018)   
 >Affiliation: CJ Logistics Corporation  
 >     
 >__Nguyen Thuy Mo__   
->MS Student (graduated in 2018) 
+>MS degree (graduated in 2018) 
 >   
 >__Boa Nam__   
->MS Student (graduated in 2017)   
+>MS degree (graduated in 2017)   
 >Affiliation: The Institute of intelligent Logistics Big Data, Pusan National University
 >   
 >__Sofyan Dwi Cahyo__   
->MS Student (graduated in 2017)  
+>MS degree (graduated in 2017)  
 >Affiliation: Meratus Line Indonesia  
 >Division: Container Logistics Center  
 >  
 >__Jeonghwan Kim__   
->MS student (graduated in 2017)  
+>MS degree (graduated in 2017)  
 >Affiliation: Korea Institute of Science and Technology Information (KISTI, 한국과학기술정보연구원)  
