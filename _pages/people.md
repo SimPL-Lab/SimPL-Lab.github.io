@@ -10,7 +10,7 @@ layout: single
 ## Postdoctoral Research Fellow
 >* __Bonggwon Kang__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Bonggwon_Kang.jpg">
->PhD Candidate (PhD Fall 2019~)  
+>Ph.D (PhD Fall 2019~)  
 >Research Interest: Simulation modeling and analysis, Simulation-based optimization  
 >OR applications: Simulation, Machine learning, Meta heuristics  
 >Teaching assistance (Simulation, Facilities planning & material handling systems)  
@@ -111,7 +111,7 @@ layout: single
 > <br>
 >* __Hoyoung Choi__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->Undergraduate Student (joined in Winter 2023)  
+>MS Student (MS Summer 2024~)  
 >Research Interest: Simulation, Statistical analysis  
 > <br>
 > <br>
