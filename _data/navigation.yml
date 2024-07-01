@@ -4,8 +4,8 @@ main:
       url: /
     - title: "Professor"
       url: /professor/
-    - title: "Students"
-      url: /students/
+    - title: "People"
+      url: /people/
     - title: "Research"
       url: /research/
     - title: "Publication"
