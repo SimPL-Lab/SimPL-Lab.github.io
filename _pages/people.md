@@ -7,6 +7,18 @@ toc_label: "People"
 layout: single
 ---
 
+## Postdoctoral Research Fellow
+>* __Bonggwon Kang__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Bonggwon_Kang.jpg">
+>PhD Candidate (PhD Fall 2019~)  
+>Research Interest: Simulation modeling and analysis, Simulation-based optimization  
+>OR applications: Simulation, Machine learning, Meta heuristics  
+>Teaching assistance (Simulation, Facilities planning & material handling systems)  
+>[Additional Information](https://sites.google.com/view/bonggwon-kang) 
+> <br>
+> <br>
+> <br>
+
 ## PhD Candidates and Students
 >* __Bosung Kim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
@@ -16,21 +28,13 @@ layout: single
 >Teaching assistance (Facilities planning & material handling systems)  
 > <br>
 > <br>
+> <br>
 >* __Taehoon Lee__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Taehoon_Lee.jpg">
 >PhD Candidate (MS 2018~2019, PhD Fall 2019~)  
 >Research Interest: Analysis and Optimization of Material handling operations in distribution centers  
 >OR applications: Optimization, Simulation    
 >Teaching assistance (Simulation, Engineering economy, Operations management, Facilities planning & material handling systems)  
-> <br>
-> <br>
->* __Bonggwon Kang__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Bonggwon_Kang.jpg">
->PhD Candidate (PhD Fall 2019~)  
->Research Interest: Simulation modeling and analysis, Simulation-based optimization  
->OR applications: Simulation, Machine learning, Meta heuristics  
->Teaching assistance (Simulation, Facilities planning & material handling systems)  
->[Additional Information](https://sites.google.com/view/bonggwon-kang) 
 > <br>
 > <br>
 > <br>
@@ -103,7 +107,16 @@ layout: single
 > <br>
 > <br>
 > <br>
-> <br> 
+> <br>
+> <br>
+>* __Hoyoung Choi__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>Undergraduate Student (joined in Winter 2023)  
+>Research Interest: Simulation, Statistical analysis  
+> <br>
+> <br>
+> <br>
+> <br>
 > <br> 
 
 ## Integrated BS/MS Students
@@ -111,14 +124,6 @@ layout: single
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >Undergraduate Student (joined in Winter 2023)  
 >Research Interest: Simulation optimization  
-> <br>
-> <br>
-> <br>
-> <br>
->* __Hoyoung Choi__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->Undergraduate Student (joined in Winter 2023)  
->Research Interest: Simulation, Statistical analysis  
 > <br>
 > <br>
 > <br>
