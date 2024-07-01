@@ -1,9 +1,9 @@
 ---
-permalink: /students/
-title: "Students"
+permalink: /people/
+title: "People"
 toc: true
 toc_sticky: true
-toc_label: "Students"
+toc_label: "People"
 layout: single
 ---
 
