@@ -19,7 +19,7 @@ last_modified_at: 2024-07-10
 
 Master's and doctoral students presented their thesis defenses in the first semester of 2024. (Date : May 21).
 
-Bonggwon Kang has successfully defended his doctoral thesis and is now a postdoctoral research fellow, while Jean Marne Gutierrez, Rosi Ana Rahmawati, and Jungtae Park have successfully defended their master's theses. <span style="font-size: 24px; font-weight: bold;">Congratulations!</span>
+Bonggwon Kang has successfully defended his doctoral thesis and is now a postdoctoral research fellow, meanwhile Jean Marne Gutierrez, Rosi Ana Rahmawati, and Jungtae Park have successfully defended their master's theses. <span style="font-size: 24px; font-weight: bold;">Congratulations!</span>
 <br>
 <br>
 <br>
