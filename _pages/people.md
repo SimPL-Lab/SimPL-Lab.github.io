@@ -111,8 +111,9 @@ layout: single
 > <br>
 >* __Hoyoung Choi__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->MS Student (MS Summer 2024~)  
+>MS Student (MS Fall 2024~)  
 >Research Interest: Simulation, Statistical analysis  
+>OR applications: Simulation
 > <br>
 > <br>
 > <br>
@@ -132,6 +133,23 @@ layout: single
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >Undergraduate Student (joined in Spring 2024)  
 >Research Interest: Simulation modeling and Analysis  
+> <br>
+> <br>
+> <br>
+> <br>
+>* __Sehee Choi__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>Undergraduate Student (joined in Summer 2024)  
+>Research Interest: Simulation optimization, Meta heuristic 
+> <br>
+> <br>
+> <br>
+> <br>
+> <br>
+>* __Jihyeon Ryu__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>Undergraduate Student (joined in Summer 2024)  
+>Research Interest: Simulation optimization
 > <br>
 > <br>
 > <br>
