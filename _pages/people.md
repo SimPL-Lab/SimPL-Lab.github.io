@@ -10,7 +10,7 @@ layout: single
 ## Postdoctoral Research Fellow
 >* __Bonggwon Kang__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Bonggwon_Kang.jpg">
->Ph.D (PhD Fall 2019~)  
+>Ph.D (MS/PhD Fall 2019~2024)  
 >Research Interest: Simulation modeling and analysis, Simulation-based optimization  
 >OR applications: Simulation, Machine learning, Meta heuristics  
 >Teaching assistance (Simulation, Facilities planning & material handling systems)  
