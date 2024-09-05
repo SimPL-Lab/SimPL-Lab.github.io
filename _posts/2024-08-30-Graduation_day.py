@@ -14,7 +14,7 @@ tags:
 last_modified_at: 2024-08-30
 
 ---
-<img align="center" width="300" height="300" style="border: 1px solid white" src="/assets/images/Bonggwon_Kang.jpg">
+<img align="center" width="300" height="300" style="border: 1px solid white" src="/assets/images/2024.08.30_Graduation day.jpg">
 
 <br>
 We are delighted to celebrate the achievements of our recent graduates!
