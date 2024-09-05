@@ -17,7 +17,7 @@ last_modified_at: 2024-08-29
 <img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/images/Workshop(08.28)/JointWorkshop(0829)_Lee3.jpg""> 
 
 
-Joint Workshop for AGV simulation & optimization was held at PNU on January 18 - 19, 2024.
+Joint Workshop for Prediction of Task Waiting Time Based on STK Log Data was held at PNU on January 18 - 19, 2024.
 
 Samsung Display and SimPL Lab members attended the workshop.
 
