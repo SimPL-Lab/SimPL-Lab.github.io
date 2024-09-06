@@ -1,7 +1,7 @@
 ---
 title:  "Samsung Display & SimPL Lab 5th Joint Workshop (2024.08.28-29) "
 header:
-    teaser: "/assets/images/Workshop(08.28)/2024.08.29-SDC_workshop"
+    teaser: "/assets/images/2024.08.29-SDC_workshop.png
 excerpt: "2024 Samsung Display & SimPL Lab 5th Joint Workshop was held at PNU on August 28 - 29, 2024."
 author: "hoyoung"
 categories:
