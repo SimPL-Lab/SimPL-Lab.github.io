@@ -14,7 +14,7 @@ tags:
 last_modified_at: 2024-08-30
 
 ---
-<img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/images/2024.08.30_Graduation day.jpg">
+<img align="center" width="900" height="900" style="border: 1px solid white" src="/assets/images/2024.08.30_Graduation.jpg"">
 
 <br>
 We are delighted to celebrate the achievements of our recent graduates!
@@ -24,8 +24,10 @@ This year, we proudly congratulate Bonggwon Kang, who has earned his Ph.D. in In
 Your dedication, hard work, and passion for research have brought you to this incredible milestone. We are proud of your accomplishments and excited to see the impact you will make in your future careers.
 
 We wish you all the best in your future endeavors and look forward to hearing about your continued successes.
-<span style="font-size: 14px;">
+<span style="font-size: 16px;">
 Congratulations once again!
+</span>
 
 <br>
 <br>
+s
