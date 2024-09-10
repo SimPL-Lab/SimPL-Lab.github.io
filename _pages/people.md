@@ -34,7 +34,8 @@ layout: single
 >PhD Candidate (MS 2018~2019, PhD Fall 2019~)  
 >Research Interest: Analysis and Optimization of Material handling operations in distribution centers  
 >OR applications: Optimization, Simulation    
->Teaching assistance (Simulation, Engineering economy, Operations management, Facilities planning & material handling systems)  
+>Teaching assistance (Simulation, Engineering economy, Operations management, Facilities planning & material handling systems)
+>[Additional Information](https://sites.google.com/view/taehoon-lee?usp=sharing)  
 > <br>
 > <br>
 > <br>
