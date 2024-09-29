@@ -1,4 +1,3 @@
-
 ---
 
 title:  "Professor Soon-do Hong's Research Team — Dr. Boseong Kim Receives Silver Award at the 2024 Samsung Display-Hosted Paper Competition"
