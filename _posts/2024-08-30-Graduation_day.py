@@ -24,6 +24,7 @@ This year, we proudly congratulate Bonggwon Kang, who has earned his Ph.D. in In
 Your dedication, hard work, and passion for research have brought you to this incredible milestone. We are proud of your accomplishments and excited to see the impact you will make in your future careers.
 
 We wish you all the best in your future endeavors and look forward to hearing about your continued successes.
+<br>
 <span style="font-size: 16px;">
 Congratulations once again!
 </span>
