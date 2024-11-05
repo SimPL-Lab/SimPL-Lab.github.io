@@ -14,7 +14,7 @@ tags:
 last_modified_at: 2024-09-28
 
 ---
-<img align="top" width="500" height="500" style="border: 1px solid white" src="/assets/images/bosung.kim_은상.jpg">
+<img align="top" width="500" height="500" style="border: 1px solid white" src="/assets/images/bosung.kim_은상2.jpg">
 <br>
 <br>
 Ph.D. candidate Bosung Kim received the Silver Award at the 2024 Samsung Display paper competition.
