@@ -34,7 +34,7 @@ layout: single
 >PhD Candidate (MS 2018~2019, PhD Fall 2019~)  
 >Research Interest: Analysis and Optimization of Material handling operations in distribution centers  
 >OR applications: Optimization, Simulation    
->Teaching assistance (Simulation, Engineering economy, Operations management, Facilities planning & material handling systems)
+>Teaching assistance (Simulation, Engineering economy, Operations management, Facilities planning & material handling systems)           
 >[Additional Information](https://sites.google.com/view/taehoon-lee?usp=sharing)  
 > <br>
 > <br>
@@ -59,8 +59,9 @@ layout: single
 >* __Jangeun Kim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >PhD Candidate (PhD Spring 2022~)  
->Research Interest:   
->OR applications:   
+>Research Interest: RCPSP              
+>OR applications: MILP, Game theory, Meta heuristics
+> <br>
 > <br>
 > <br>
 > <br>
@@ -119,17 +120,18 @@ layout: single
 > <br>
 > <br>
 > <br>
-> <br> 
 >* __Tong Thi Khanh Huyen__
+> <br>
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >MS Student (MS Fall 2024~)  
->Research Interest: Simulation, Layout design
+>Research Interest: Simulation, Layout design                  
 >OR applications: Machine learning   
 > <br>
 > <br>
 > <br>
 > <br>
-> <br> 
+
+
 ## Integrated BS/MS Students
 >* __Dohun Kim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
@@ -164,8 +166,8 @@ layout: single
 > <br>
 > <br>
 > <br>
-
-
+> <br>
+> <br>
 
 ## Undergraduate Students
 >* __Yechan Lee__  
