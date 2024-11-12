@@ -120,7 +120,16 @@ layout: single
 > <br>
 > <br>
 > <br> 
-
+>* __Tong Thi Khanh Huyen__
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>MS Student (MS Fall 2024~)  
+>Research Interest: Simulation, Layout design
+>OR applications: Machine learning   
+> <br>
+> <br>
+> <br>
+> <br>
+> <br> 
 ## Integrated BS/MS Students
 >* __Dohun Kim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
