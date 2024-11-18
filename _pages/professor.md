@@ -9,7 +9,7 @@ layout: single
 
 ## Soondo Hong
 
-<img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Prof_Hong1.jpg">
+<img align="left" width="150" height="150" style="border: 10px solid white" src="/assets/images/Prof_Hong1.jpg">
 Soondo Hong received his Ph.D. in Industrial and Systems Engineering from the Texas A&M University (2010), M.S. in Industrial Engineering from POSTECH (1996), and B.S. in Industrial engineering from POSTECH (1994). He experienced production and operations management, material handling, and simulation in Semiconductor and Display industries and systems engineering in Software and Aerospace industries. His research interests are in facility logistics and material handling systems, simulation optimization, and applied machine learning and stochastic models. Applications of interest include Warehousing, Maritime, Display and Semiconductor industries.
 
 **Education**  
