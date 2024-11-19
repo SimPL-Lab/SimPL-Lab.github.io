@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Soondo Hong"
-  avatar           : "/assets/images/Prof_Hong.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Prof_Hong1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Department of Industrial Engineering, Pusan Nat'l University"
   location         : "Busan, Rep. of Korea"
   email            : "soondo.hong@pusan.ac.kr"
