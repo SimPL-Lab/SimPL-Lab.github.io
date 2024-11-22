@@ -15,7 +15,7 @@ last_modified_at: 2024-11-22
 ---
 <img align="center" width="746" height="784" style="border: 1px solid white" src="/assets/images/AIRAS.jpg">
 
-Journal : Korean Society of Industrial Management Systems
+Journal : Korean Society of Industrial and Systems Engineering
 
 Title : Analysis of the Impact of Resource Allocation Strategy on the Scheduling of Core Defense Technology Project Agreements
 

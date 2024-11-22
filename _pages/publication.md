@@ -19,7 +19,7 @@ __2024__
 >
 >[4] Y Li, Z Sun, S Hong, "An exact algorithm for multiple-equipment integrated scheduling in an automated container terminal using a double-cycling strategy", Transportation Research Part E: Logistics and Transportation Review, 186, 103565 (2024)
 >
->[5] J Kim, E Jeong, S Hong, "Analysis of the Impact of Resource Allocation Strategy on the Scheduling of Core Defense Technology Project Agreements", Journal of Korean Society of Industrial Management Systems, 47(3), 8-17 (2024)
+>[5] J Kim, E Jeong, S Hong, "Analysis of the Impact of Resource Allocation Strategy on the Scheduling of Core Defense Technology Project Agreements", Journal of Korean Society of Industrial and Systems Engineering, 47(3), 8-17 (2024)
 
 __2023__
 >
