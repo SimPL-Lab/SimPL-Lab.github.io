@@ -23,7 +23,7 @@ __2024__
 
 __2023__
 >
->[1] B Kim, J Park, S Hong, "A Simulation Evaluation of Aisle Design and Operation Policies for an Automated Storage and Retrieval System with Narrow-/Wide-Width Racks”, Journal of Korean Society of Industrial Management Systems, 46(1), 68-75 (2023) 
+>[1] B Kim, J Park, S Hong, "A Simulation Evaluation of Aisle Design and Operation Policies for an Automated Storage and Retrieval System with Narrow-/Wide-Width Racks”, Journal of Korean Society of Industrial and Systems Engineering, 46(1), 68-75 (2023) 
 >
 >[2] H Yoon, G Han, B Kang, S Hong, "A Simulation-based Optimization for Scheduling in a Fab: Comparative Study on Different Sampling Methods”, Journal of the Korea Society for Simulation, 32(3), 67-74 (2023)
 >
