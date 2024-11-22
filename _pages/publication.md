@@ -11,13 +11,15 @@ layout: single
 ### 2021 ~ Present
 __2024__
 >
->[1] B Kang, C Park, H Kim, S Hong, “Bayesian Optimization for the Vehicle Dwelling Policy in Semiconductor Wafer Fab”, IEEE Transactions on Automation Science and Engineering, in press
+>[1] B Kang, C Park, H Kim, S Hong, “Bayesian Optimization for the Vehicle Dwelling Policy in Semiconductor Wafer Fab”, IEEE Transactions on Automation Science and Engineering, 21(4), 5942-5952 (2024)
 >
 >[2] T Lee, HY Fibrianto, S Hong, “Order batching problem in a parallel-aisle order picking system with larger-than-bin orders”, Journal of the Operational Research Society, 75(10), 1893-1909 (2024)
 >
 >[3] H Choi, H Byeon, S Yoon, B Kim, S Hong, "Analysis of Workforce Scheduling Using Adjusted Man-machine Chart and Simulation", Journal of Korean Society of Industrial and Systems Engineering, 47(1), 20-27 (2024)
 >
 >[4] Y Li, Z Sun, S Hong, "An exact algorithm for multiple-equipment integrated scheduling in an automated container terminal using a double-cycling strategy", Transportation Research Part E: Logistics and Transportation Review, 186, 103565 (2024)
+>
+>[4] J Kim, E Jeong, S Hong, "Analysis of the Impact of Resource Allocation Strategy on the Scheduling of Core Defense Technology Project Agreements", Journal of Korean Society of Industrial Management Systems, 47(3), 8-17 (2024)
 
 __2023__
 >
