@@ -4,7 +4,7 @@ title:  "The 2nd Joint Workshop on the Recent Digital Twin and Production Logist
 header:
     teaser: "/assets/images/2024_2nd Joint Workshop_1.jpg"
 excerpt: "The 2nd Joint Workshop on Recent Digital Twin and Production Logistics Research (DTPL) was held from August 11 to 16, 2024, at the University of Washington. Attendees included Bonggwon Kang, Gwangheon Lee, Prof. Soondo Hong, and Prof. Chiwoo Park."
-author: "Hoyoung"
+author: "Hoyong"
 categories:
   - Workshop
 tags:

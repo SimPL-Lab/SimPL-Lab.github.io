@@ -4,7 +4,7 @@ title:  "Presentation at Hanwha Ocean (2024.12.11)"
 header:
     teaser: "/assets/images/hanwha_4.jpg"
 excerpt: "Bonggwon Kang gave a talk at Hanwha Ocean in Geoje, titled 'Recent Research on Digital Twin Construction: A Perspective of Management Science'."
-author: "Hoyoung"
+author: "Hoyong"
 categories:
   - Hanwha ocean
 tags:

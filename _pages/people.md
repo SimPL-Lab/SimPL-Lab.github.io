@@ -111,7 +111,7 @@ layout: single
 > <br>
 > <br>
 > <br>
->* __Hoyoung Choi__  
+>* __Hoyong Choi__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >MS Student (MS Fall 2024~)  
 >Research Interest: Simulation, Statistical analysis  
@@ -126,6 +126,15 @@ layout: single
 >MS Student (MS Fall 2024~)  
 >Research Interest: Simulation, Layout design                  
 >OR applications: Machine learning   
+> <br>
+> <br>
+> <br>
+> <br>
+>* __Taewoo Kim__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Taewoo_Kim.jpg">
+>MS Student (MS Spring 2025~)  
+>Research Interest: Statistical analysis  
+>OR applications: Simulation, Machine learning
 > <br>
 > <br>
 > <br>

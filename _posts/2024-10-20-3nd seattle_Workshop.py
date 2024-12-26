@@ -4,7 +4,7 @@ title:  "The 3rd Joint Workshop on the Recent Digital Twin and Production Logist
 header:
     teaser: "/assets/images/2024_2nd Joint Workshop_3.jpg"
 excerpt: "The 3rd Joint Workshop on Recent Digital Twin and Production Logistics Research (DTPL) was held on August 20, 2024, at the University of Washington."
-author: "Hoyoung"
+author: "Hoyong"
 categories:
   - Workshop
 tags:
