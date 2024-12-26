@@ -20,15 +20,6 @@ layout: single
 > <br>
 
 ## PhD Candidates and Students
->* __Bosung Kim__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->PhD Student (MS 2017~2019, PhD Fall 2019~)  
->Research Interest: Analysis and Scheduling of Twin-mobility System  
->OR applications: Optimization, Simulation, Meta heuristics   
->Teaching assistance (Facilities planning & material handling systems)  
-> <br>
-> <br>
-> <br>
 >* __Taehoon Lee__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Taehoon_Lee.jpg">
 >PhD Candidate (MS 2018~2019, PhD Fall 2019~)  
@@ -36,6 +27,15 @@ layout: single
 >OR applications: Optimization, Simulation    
 >Teaching assistance (Simulation, Engineering economy, Operations management, Facilities planning & material handling systems)           
 >[Additional Information](https://sites.google.com/view/taehoon-lee?usp=sharing)  
+> <br>
+> <br>
+> <br>
+>* __Bosung Kim__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>PhD Candidate (MS 2017~2019, PhD Fall 2019~)  
+>Research Interest: Analysis and Scheduling of Twin-mobility System  
+>OR applications: Optimization, Simulation, Meta heuristics   
+>Teaching assistance (Facilities planning & material handling systems)  
 > <br>
 > <br>
 > <br>
