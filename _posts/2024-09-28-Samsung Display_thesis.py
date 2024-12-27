@@ -1,10 +1,10 @@
 ---
 
-title:  "Ph.D. candidate Bosung Kim Receives Silver Award at the 2024 Samsung Display Paper Competition"
+title:  "Ph.D. candidate Bosung Kim Received Silver Award at the 2024 Samsung Display Paper Competition"
 header:
     teaser: "/assets/images/Bosung_kim.jpg"
 excerpt: "Ph.D. candidate Bosung Kim from Professor Soondo Hong's research team won the Silver Award at the 2024 Samsung Display Paper Competition for their work on optimizing job assignments for in-line stockers using genetic algorithms."
-author: "Hoyoung"
+author: "Hoyong"
 categories:
   - Samsung Display Thesis
 tags:
@@ -23,9 +23,7 @@ The research, titled "Optimizing job assignment for in-line stockers under heavy
 
 This paper was conducted under the guidance of Professor Soondo Hong from the Department of Industrial Engineering at Pusan National University, with Ph.D. candidate Bosung Kim participating as the lead author.
 <br>
-<span style="font-size: 16px;">
-Congratulations once again!
-</span>
+<span style="font-size: 16px; font-weight: bold;">Congratulations once again!</span>
 
 <br>
 <br>
