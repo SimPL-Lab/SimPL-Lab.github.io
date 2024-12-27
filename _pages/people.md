@@ -247,6 +247,7 @@ layout: single
 > <br> 
 > <br> 
 > <br> 
+> <br> 
 >* __Yejin Kim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >Undergraduate Student (joined in Winter 2024)  
