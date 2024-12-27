@@ -2,7 +2,7 @@
 
 title:  "Master student Sangcheon Eom Received the Outstanding Paper Presentation Award"
 header:
-    teaser: "/assets/images/Bosung_kim.jpg"
+    teaser: "/assets/images/우수논문발표상_엄상천.jpg"
 excerpt: "Master student Sangcheon Eom from Professor Soondo Hong's research team received the Outstanding Paper Presentation Award"
 author: "Hoyong"
 categories:
@@ -14,7 +14,7 @@ tags:
 last_modified_at: 2024-11-29
 
 ---
-<img align="top" width="500" height="500" style="border: 1px solid white" src="/assets/images/bosung.kim_은상2.jpg">
+<img align="top" width="500" height="500" style="border: 1px solid white" src="/assets/images/우수논문발표상_엄상천.jpg">
 <br>
 <br>
 Master student Sangcheon Eom from Professor Soondo Hong's research team received the Outstanding Paper Presentation Award
