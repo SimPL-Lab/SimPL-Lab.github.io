@@ -29,14 +29,14 @@ classes: wide
 _config.yml에서 baseurl 수정 (문자열을 의미하는 "" 추가,null로 인지될 수 있는 상황 방지)
 <h3>2024-12-30 인수인계용 코드 설명서</h2>
 
-<h4>1. 포스트 추가(중요)</h3>
+<h4>1. 포스트 추가 (중요)</h3>
 <p>_posts에서 <code>.md</code> 파일 업로드 (파일명 뒤에 <code>.md</code> 붙여야 함)<br>
 _config.yml의 Recent Post는 <code>0000-00-00-파일이름.md</code> 형식을 인식</p>
 
-<h4>2. 이미지 추가(중요)</h3>
+<h4>2. 이미지 추가 (중요)</h3>
 <p>_assets 내의 images에 추가</p>
 
-<h4>3. 연구실 인원 추가 및 변경(중요)</h3>
+<h4>3. 연구실 인원 추가 및 변경 (중요)</h3>
 <p>_pages 내의 <code>people.md</code> 파일 수정</p>
 
 <h4>4. 사이트 내 글 변경 (Home, Publication, Post 등)</h3>
