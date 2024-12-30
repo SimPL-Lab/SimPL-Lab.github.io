@@ -1,5 +1,5 @@
 # How to use [SimPL Lab](https://simpl-lab.github.io/) github blog
-Written by Jeongwon Park,
+Written by Jeongwon Park,<br>
 Modified by Hoyong Choi
 
 ## Based on [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
