@@ -12,6 +12,44 @@ Written by Jeongwon Park
 ## Update note
 ### 2024-06-21 update
 Open blog (ver 1.0)
+### 2024-11-19 update
+교수님 사진 링크 수정 (로컬 서버에서 운영서버로 변경) (http://127.0.0.1:4000) -> (https://simpl-lab.github.io/) <br>
+Home의 교수님 사진은 _config.yml->avartar에서 변경
+### 2024-12-30 update1
+Recent Post 수정 (index.html에 Front Matter 추가)
+~~~
+---
+layout: home
+author_profile: true
+classes: wide
+---
+~~~
+없을 시 _config.yml에서 index.html을 불러오지 못함 -> 404에러 뜸
+### 2024-12-30 update2
+_config.yml에서 baseurl 수정 (문자열을 의미하는 "" 추가,null로 인지될 수 있는 상황 방지)
+<h3>2024-12-30 인수인계용 코드 설명서</h2>
+
+<h4>1. 포스트 추가</h3>
+<p>_posts에서 <code>.md</code> 파일 업로드 (파일명 뒤에 <code>.md</code> 붙여야 함)<br>
+_config.yml의 Recent Post는 <code>0000-00-00-파일이름.md</code> 형식을 인식</p>
+
+<h4>2. 이미지 추가</h3>
+<p>_assets 내의 images에 추가</p>
+
+<h4>3. 연구실 인원 추가 및 변경</h3>
+<p>_pages 내의 <code>people.md</code> 파일 수정</p>
+
+<h4>4. 사이트 내 글 변경 (Home, Publication, Post 등)</h3>
+<p>_pages 내의 md 파일 수정 (3번과 동일)</p>
+
+<h4>5. 홈페이지 URL 변경</h3>
+<p>_config.yml에서 <code>url</code>, <code>baseurl</code> 설정 가능</p>
+
+<h4>6. 사이트 전반적인 설정 및 레이아웃 변경</h3>
+<p>_config.yml에서 이미지, 텍스트 등 변경 가능<br>
+사이트 레이아웃 및 메인 화면은 <code>index.html</code>에서 수정 가능<br>
+<code>index.html</code>은 루트 폴더 (main branch)에 위치</p>
+
 
 ## Manual
 ### - set up
