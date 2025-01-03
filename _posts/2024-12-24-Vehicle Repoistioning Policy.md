@@ -1,7 +1,7 @@
 ---
 title:  "A Simulation Study of the Vehicle Repositioning Policy with the Minimum and Maximum Service Levels in a Demand Responsive Transit System"
 header:
-    teaser: "/assets/images/AIRAS.jpg"
+    teaser: "/assets/images/2024_최지혜_논문.jpg"
 excerpt: "New paper has been published in the Journal of the Korean Society of Supply Chain Management"
 author: "Hoyoung"
 categories:
