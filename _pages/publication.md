@@ -23,7 +23,7 @@ __2024__
 >
 >[6] J Choi, J Lee, S Hong, "A Simulation Study of the Vehicle Repositioning Policy with the Minimum and Maximum Service Levels in a Demand Responsive Transit System", Journal of the Korean Society of Supply Chain Management, 24(3), 13-23 (2024)
 >
->[7] HY Fibrianto, B Kim, S Hong, "New paper has been published in the Journal of the Korean Society of Supply Chain Management", Journal of the Korean Society of Supply Chain Management, 24(3), 25-34 (2024)
+>[7] HY Fibrianto, B Kim, S Hong, "Mixed-Integer Linear Programming and Constraint Programming Models for the Dual-lane Zone Picking System Operation", Journal of the Korean Society of Supply Chain Management, 24(3), 25-34 (2024)
 >
 >[8] HY Fibrianto, B Kim, S Hong, "A Simulation-based Performance Analysis of a Zone Picking System with Two Conveyor Lanes", Journal of Korean Society of Industrial and Systems Engineering, 47(4), 206-214 (2024)
 
