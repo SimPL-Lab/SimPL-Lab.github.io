@@ -21,7 +21,7 @@ __2024__
 >
 >[5] J Kim, E Jeong, S Hong, "Analysis of the Impact of Resource Allocation Strategy on the Scheduling of Core Defense Technology Project Agreements", Journal of Korean Society of Industrial and Systems Engineering, 47(3), 8-17 (2024)
 >
->[6] J Choi, J Lee, S Hong, "A Simulation Study of the Vehicle Repositioning Policy with the Minimum and Maximum Service Levels in a Demand Responsive Transit System", Journal of the Korean Society of Supply Chain Management, 24(3), 13-23 (2024)
+>[6] J Choi, J Lee, B Kang, S Hong, "A Simulation Study of the Vehicle Repositioning Policy with the Minimum and Maximum Service Levels in a Demand Responsive Transit System", Journal of the Korean Society of Supply Chain Management, 24(3), 13-23 (2024)
 >
 >[7] TH Tran-Vo, B Kim, S Hong, "Mixed-Integer Linear Programming and Constraint Programming Models for the Dual-lane Zone Picking System Operation", Journal of the Korean Society of Supply Chain Management, 24(3), 25-34 (2024)
 >
