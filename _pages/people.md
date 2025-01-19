@@ -243,11 +243,11 @@ layout: single
 ## Former Students
 >
 >__Yechan Lee__  
->BH degree(graduated in 2024)
+>BH degree(graduated in 2024) 
 >Affiliation: KIA Corporation
 >
 >__Taeeon No__  
->BH degree(graduated in 2024)
+>BH degree(graduated in 2024) 
 >Affiliation: SK hynix
 >
 >__Jean Marne Gutierrez__  
