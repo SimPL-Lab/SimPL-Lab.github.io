@@ -243,18 +243,18 @@ layout: single
 ## Former Students
 >
 >__Yechan Lee__  
->BH degree(graduated in 2024) 
+>BH degree(graduated in 2024)  
 >Affiliation: KIA Corporation
 >
 >__Taeeon No__  
->BH degree(graduated in 2024) 
+>BH degree(graduated in 2024)  
 >Affiliation: SK hynix
 >
 >__Jean Marne Gutierrez__  
 >MS degree (graduated in 2024)  
 >
 >__Rosi Ana Rahmawati__  
->MS degree (graduated in 2024) 
+>MS degree (graduated in 2024)  
 >Affiliation: Global Halal Certification
 >
 >__Jungtae Park__  
