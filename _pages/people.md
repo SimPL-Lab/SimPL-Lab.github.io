@@ -180,14 +180,6 @@ layout: single
 > <br>
 
 ## Undergraduate Students
->* __Yechan Lee__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->Undergraduate Student (joined in Fall 2023)  
->Research Interest: Simulation and Reinforcement learning  
-> <br>
-> <br>
-> <br>
-> <br>
 >* __Jihye Choi__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >Undergraduate Student (joined in Fall 2023)  
@@ -196,15 +188,6 @@ layout: single
 > <br>
 > <br>
 > <br>
->* __Taeeon No__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->Undergraduate Student (joined in Spring 2024)  
->Research Interest: Scheduling, Optimization, Reinforcement learning
-> <br>
-> <br>
-> <br>
-> <br>
-> <br> 
 >* __Juhwan Kim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >Undergraduate Student (joined in Spring 2024)  
@@ -258,13 +241,21 @@ layout: single
 > <br>
 
 ## Former Students
-
+>
+>__Yechan Lee__  
+>BH degree(graduated in 2024)
+>Affiliation: KIA Corporation
+>
+>__Taeeon No__  
+>BH degree(graduated in 2024)
+>Affiliation: SK hynix
 >
 >__Jean Marne Gutierrez__  
 >MS degree (graduated in 2024)  
 >
 >__Rosi Ana Rahmawati__  
 >MS degree (graduated in 2024) 
+>Affiliation: Global Halal Certification
 >
 >__Jungtae Park__  
 >MS degree (graduated in 2024)  
