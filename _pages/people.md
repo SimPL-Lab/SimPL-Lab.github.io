@@ -141,8 +141,6 @@ layout: single
 > <br>
 > <br>
 > <br>
-
-## Integrated BS/MS Students
 >* __Dohun Kim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >Undergraduate Student (joined in Winter 2023)  
@@ -159,6 +157,8 @@ layout: single
 > <br>
 > <br>
 > <br>
+
+## Integrated BS/MS Students
 >* __Sehee Choi__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >Undergraduate Student (joined in Summer 2024)  
@@ -243,11 +243,11 @@ layout: single
 ## Former Students
 >
 >__Yechan Lee__  
->BH degree(graduated in 2024)  
+>BS degree(graduated in 2024)  
 >Affiliation: KIA Corporation
 >
 >__Taeeon No__  
->BH degree(graduated in 2024)  
+>BS degree(graduated in 2024)  
 >Affiliation: SK hynix
 >
 >__Jean Marne Gutierrez__  
