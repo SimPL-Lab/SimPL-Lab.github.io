@@ -143,7 +143,7 @@ layout: single
 > <br>
 >* __Dohun Kim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->Undergraduate Student (joined in Winter 2023)  
+>MS Student (MS Spring 2025~)
 >Research Interest: Simulation optimization  
 > <br>
 > <br>
@@ -151,7 +151,7 @@ layout: single
 > <br>
 >* __Jonghyeon Chun__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->Undergraduate Student (joined in Spring 2024)  
+>MS Student (MS Spring 2025~)  
 >Research Interest: Simulation modeling and Analysis  
 > <br>
 > <br>
