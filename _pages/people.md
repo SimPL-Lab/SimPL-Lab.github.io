@@ -130,17 +130,6 @@ layout: single
 > <br>
 > <br>
 > <br>
->* __Taewoo Kim__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="/assets/images/Taewoo_Kim.jpg">
->MS Student (MS Spring 2025~)  
->Research Interest: Statistical analysis  
->OR applications: Simulation, Machine learning
-> <br>
-> <br>
-> <br>
-> <br>
-> <br>
-> <br>
 >* __Dohun Kim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >MS Student (MS Spring 2025~)  
@@ -197,18 +186,7 @@ layout: single
 > <br>
 > <br>
 > <br>
-> <br> 
->* __Hyuntak Lee__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Hyuntak_Lee.jpg">
->Undergraduate Student (joined in Spring 2024)  
->Research Interest: Material handling and Simulation
-> <br>
-> <br>
-> <br>
-> <br>
-> <br> 
-> <br> 
-> <br>  
+> <br>   
 >* __Sangwon Kim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Sangwon_Kim.jpg">
 >Undergraduate Student (joined in Spring 2024)  
@@ -217,18 +195,6 @@ layout: single
 > <br>
 > <br>
 > <br>
-> <br> 
-> <br> 
-> <br> 
->* __Woojin Choo__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Woojin_Choo.jpg">
->Undergraduate Student (joined in Spring 2024)  
->Research Interest: Statistical analysis and Optimization
-> <br>
-> <br>
-> <br>
-> <br>
-> <br> 
 > <br> 
 > <br> 
 > <br> 
