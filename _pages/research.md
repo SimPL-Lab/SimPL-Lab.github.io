@@ -11,9 +11,9 @@ layout: single
 
 
 ## Research & Industry Projects
-13. Developing a Digital Twin System and Service Technologies for Port Logistics Using Data Network AI (2024.01 ~ 2024.02, Regional Innovation Strategy Project managed by the National Research Foundation of Korea, PI)
+13. Intelligent and Collaborative Operations in Automated Material Systems (2023.03 ~ 2026.02, Samsung Display, PI)
 
-12. Intelligent and Collaborative Operations in Automated Material Systems (2023.03 ~ 2025.02, Samsung Display, PI)
+12. Developing a Digital Twin System and Service Technologies for Port Logistics Using Data Network AI (2024.1~2024.2, 2024.8~2025.1, Regional Innovation Strategy Project managed by the National Research Foundation of Korea, PI)
 
 11. Research on Automated Container Terminal Yard Operations Based on Random Assignment Strategy (2022.09 ~ 2024.08, International cooperation program managed by the National Research Foundation of Korea, PI)
 
