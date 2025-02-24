@@ -10,7 +10,7 @@ layout: single
 <img align="center" width="1500" height="1500" style="border: 1px solid white" src="/assets/images/research_field_figure.jpg"> 
 
 
-## Projects
+## Research & Industry Projects
 13. Developing a Digital Twin System and Service Technologies for Port Logistics Using Data Network AI (2024.01 ~ 2024.02, Regional Innovation Strategy Project managed by the National Research Foundation of Korea, PI)
 
 12. Intelligent and Collaborative Operations in Automated Material Systems (2023.03 ~ 2025.02, Samsung Display, PI)
