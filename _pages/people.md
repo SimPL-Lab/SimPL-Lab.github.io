@@ -18,6 +18,7 @@ layout: single
 > <br>
 > <br>
 > <br>
+> <br>
 
 ## PhD Candidates and Students
 >* __Taehoon Lee__  
@@ -149,6 +150,17 @@ layout: single
 > <br>
 
 ## Integrated BS/MS Students
+>* __Sangwon Kim__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Sangwon_Kim.jpg">
+>Undergraduate Student (joined in Spring 2024)  
+>Research Interest: Optimization, Ranking and selection
+> <br>
+> <br>
+> <br>
+> <br>
+> <br> 
+> <br> 
+> <br> 
 >* __Sehee Choi__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >Undergraduate Student (joined in Summer 2024)  
@@ -162,7 +174,6 @@ layout: single
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >Undergraduate Student (joined in Summer 2024)  
 >Research Interest: Simulation optimization
-> <br>
 > <br>
 > <br>
 > <br>
@@ -187,21 +198,11 @@ layout: single
 > <br>
 > <br>
 > <br>   
->* __Sangwon Kim__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Sangwon_Kim.jpg">
->Undergraduate Student (joined in Spring 2024)  
->Research Interest: Optimization, Ranking and selection
-> <br>
-> <br>
-> <br>
-> <br>
-> <br> 
-> <br> 
-> <br> 
 >* __Yejin Kim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >Undergraduate Student (joined in Winter 2024)  
 >Research Interest: Simulation Optimization, Material handling
+> <br>
 > <br>
 > <br>
 > <br>
