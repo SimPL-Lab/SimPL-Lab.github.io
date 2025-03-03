@@ -3,7 +3,7 @@ title:  "Samsung Display & SimPL Lab 6th Joint Workshop (2025.02.19-20) "
 header: 
     teaser: "/assets/images/2025.02.19-20 6th Workshop (2).jpg" 
 excerpt: "2025 Samsung Display & SimPL Lab 6th Joint Workshop was held at PNU on February 19 - 20, 2025."
-author: "jihyeon"
+author: "Jihyeon"
 categories:
   - Workshop
 tags:
