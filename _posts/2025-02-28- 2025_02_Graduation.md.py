@@ -10,7 +10,7 @@ categories:
 tags:
   - Master degree
   - Bachelor degree
-last_modified_at: 2025-03-03
+last_modified_at: 2025-02-28
 
 ---
 <img align="center" width="900" height="400" style="border: 1px solid white" src="/assets/images/2025.02 졸업식(2).jpg">

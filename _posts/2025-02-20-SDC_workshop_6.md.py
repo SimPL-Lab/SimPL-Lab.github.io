@@ -9,7 +9,7 @@ categories:
 tags:
   - Workshop
   - Achievement
-last_modified_at: 2025-02-28
+last_modified_at: 2025-02-20
 ---
 <img align="center" width="900" height="300" style="border: 1px solid white" src="/assets/images/2025.02.19-20 6th Workshop (1).jpg"> 
 <img align="center" width="900" height="300" style="border: 1px solid white" src="/assets/images/2025.02.19-20 6th Workshop (2).jpg"> 
