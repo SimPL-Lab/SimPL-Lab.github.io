@@ -61,7 +61,7 @@ __2022__
 
 __2021__  
 >
-> <span style="font-style: normal;"> [K1] T Lee, Y Kim, Jihyun Lee, S Hong, "A Study on Productivity Evaluation and Replacement Analysis in Order Picking with Person-Following Picking Carts”, <em>Korean Journal of Logistics</em>, 29(3), 69-78 (2021) </span>
+> <span style="font-style: normal;"> [K1] T Lee, Y Kim, J Lee, S Hong, "A Study on Productivity Evaluation and Replacement Analysis in Order Picking with Person-Following Picking Carts”, <em>Korean Journal of Logistics</em>, 29(3), 69-78 (2021) </span>
 
 ### 2016 ~ 2020  
 
@@ -73,11 +73,12 @@ __2020__
 >
 > <span style="font-style: normal;"> [3] HY Fibrianto, B Kang, S Hong, "A Job Sequencing Problem of an Overhead Shuttle Crane in a Rail-Based Automated Container Terminal”,<em> IEEE Access</em>, 8, 156362-156377 (2020) </span>
 >
+> <span style="font-style: normal;"> [C1] HY Fibrianto, B Kang, B Kim, A M, T B, H Haasis, S Hong, KH Kim, "A Simulation Study of a Storage Policy for a Container Terminal”, <em>Lecture notes in logistics</em>, Springer International Publishing, 7, 62-69 (2020) </span>
+>
 > <span style="font-style: normal;"> [K1] J Lee, Y Kim, T Lee, S Hong, "Simulation-based Comparison of Operational Policies in an Order Picking System with Person-Following Picking Carts”,<em> Korea Logistics Review</em>, 30(1), 1-12 (2020) </span>
 >
 > <span style="font-style: normal;"> [K2] T Lee, Y Kim, J Lee, S Hong, “A Simulation-based Analysis of a Digital Assorting System with Person-following Robotic Carts”,<em> Korean Journal of Logistics</em>, 28(1), 47-58 (2020) </span>
 >
-> <span style="font-style: normal;"> [C1] HY Fibrianto, B Kang, Bosung Kim, Annika Marbach, Tobias Buer, H. Haasis, S Hong, Kap-Hwan Kim, "A Simulation Study of a Storage Policy for a Container Terminal”, <em>Lecture notes in logistics</em>, Springer International Publishing, (2020) </span>
 
 __2019__
 >
@@ -91,7 +92,7 @@ __2018__
 >
 > <span style="font-style: normal;"> [1] S Hong, “The effects of picker-oriented operational factors on hand-off delay in a bucket brigade order picking system”,<em> OR Spectrum</em>, 40(3), 781-808 (2018) </span>
 >
-> <span style="font-style: normal;"> [2] S Hong and Y Kim, “The effects of loosely coupled hand-off operations on bucket brigade order picking systems”, <em>Industrial Engineering & Management Systems</em>, 17(4), 745-756 (2018) </span>
+> <span style="font-style: normal;"> [C1] S Hong and Y Kim, “The effects of loosely coupled hand-off operations on bucket brigade order picking systems”, <em>Industrial Engineering & Management Systems</em>, 17(4), 745-756 (2018) </span>
 >
 > <span style="font-style: normal;"> [K1] J Lee, J Kim, Y Kim, S Hong, “A Simulation-based Performance Analysis of a Digital Assorting System”,<em> Korea Logistics Review</em>, 28 (5), 65-77 (2018) </span>
 >
@@ -115,11 +116,11 @@ __2016__
 >
 > <span style="font-style: normal;"> [1] S Hong, AL Johnson, BA Peters, "Order batching in a bucket brigade order picking system considering picker blocking",<em> Flexible Services and Manufacturing Journal</em>, 28(3), 425-441 (2016) </span>
 >
-> <span style="font-style: normal;"> [2] IK Singgih, X Jin, S Hong, KH Kim, "Architectural Design of Terminal Operating System for a Container Terminal Based on a New Concept",<em> Industrial Engineering & Management Systems</em>, 15(3), 278-288 (2016) </span>
+> <span style="font-style: normal;"> [2] M Ha and S Hong, "DNA context represents transcription regulation of the gene in mouse embryonic stem cells",<em> Scientific reports</em>, 6 (2016) </span>
 >
-> <span style="font-style: normal;"> [3] M Ha and S Hong, "DNA context represents transcription regulation of the gene in mouse embryonic stem cells",<em> Scientific reports</em>, 6 (2016) </span>
+> <span style="font-style: normal;"> [C1] IK Singgih, X Jin, S Hong, KH Kim, "Architectural Design of Terminal Operating System for a Container Terminal Based on a New Concept",<em> Industrial Engineering & Management Systems</em>, 15(3), 278-288 (2016) </span>
 >
-> <span style="font-style: normal;"> [4] IK Singgih, S Hong, KH Kim, "Flow Path Design for Automated Transport Systems in Container Terminals Considering Traffic Congestion", <em>Industrial Engineering & Management Systems</em>, 15(1), 19-31 (2016) </span>
+> <span style="font-style: normal;"> [C2] IK Singgih, S Hong, KH Kim, "Flow Path Design for Automated Transport Systems in Container Terminals Considering Traffic Congestion", <em>Industrial Engineering & Management Systems</em>, 15(1), 19-31 (2016) </span>
 >
 > <span style="font-style: normal;"> [K1] G Kwon, S Hong, KH Kim, "Designing Transport Racks for Flat Glass Products in a Construction Industry", <em>Journal of Korean Institute of Industrial Engineers</em>, 42(2), 270-279 (2016) </span>
 >
@@ -127,17 +128,13 @@ __2016__
 ### 2011 ~ 2015
 __2015__
 >
-> <span style="font-style: normal;"> [1] S Hong, "Order batch formations for less picker blocking in a narrow-aisle picking system",<em> Industrial Engineering & Management System</em>s, 14 (3), 289-298 (2015) </span>
+> <span style="font-style: normal;"> [1] S Hong, AL Johnson, BA Peters, "Quantifying picker blocking in a bucket brigade order picking system", <em>International Journal of Production Economics</em>, 170, 862-873 (2015) </span>
 >
-> <span style="font-style: normal;"> [2] S Hong, AL Johnson, BA Peters, "Quantifying picker blocking in a bucket brigade order picking system", <em>International Journal of Production Economics</em>, 170, 862-873 (2015) </span>
+> <span style="font-style: normal;"> [C1] S Hong, "Order batch formations for less picker blocking in a narrow-aisle picking system",<em> Industrial Engineering & Management Systems</em>, 14 (3), 289-298 (2015) </span>
 >
-
 __2014__
 >
 > <span style="font-style: normal;"> [1] S Hong, “Two-worker blocking model with walk speed m in a narrow circular passage system”, <em>European Journal of Operational Research</em>, 235(3), 687-696 (2014) </span>
->
-> <span style="font-style: normal;"> [C1] S Hong, AL Johnson, and BA Peters, 2014. “Order batching with time constraints in a parallel-aisle warehouse: A multiple-policy approach”,<em> Progress in Material Handling Research</em>, Book Chapter, Material Handling Industry of America </span>
->
 >
 
 __2013__
@@ -173,16 +170,21 @@ __~ 2010__
 
 ## Peer-reviewed conference articles and Book chapters
 >
-> <span style="font-style: normal;"> [C1] J Park, P Joatiko, C Park, S Hong, “Average flow time estimation and its application for storage relocation in an order picking system”,<em> IFIP International Conference on Advances in Production Management Systems</em>, 663, 60-66, (2022)
+> <span style="font-style: normal;"> [1] J Park, P Joatiko, C Park, S Hong, “Average flow time estimation and its application for storage relocation in an order picking system”,<em> IFIP International Conference on Advances in Production Management Systems</em>, 663, 60-66, (2022)
 >
-> <span style="font-style: normal;"> [C2] TH Tran-Vo, T Nguyen, S Hong, “Effects of Multiple Depots on Total Travel Distance in Parallel-aisle Manual Order Picking Systems”,<em> IFIP International Conference on Advances in Production Management Systems</em>, 663, 310-318, (2022)
+> <span style="font-style: normal;"> [2] TH Tran-Vo, T Nguyen, S Hong, “Effects of Multiple Depots on Total Travel Distance in Parallel-aisle Manual Order Picking Systems”,<em> IFIP International Conference on Advances in Production Management Systems</em>, 663, 310-318, (2022)
 >
-> <span style="font-style: normal;"> [C3] B Kang, B Kim, S Hong, “Sequential Optimization of a Temporary Storage Location for Cooperative Twin Overhead Shuttles in a Rail-based Automated Container Terminal”, <em>IFIP International Conference on Advances in Production Management Systems</em>, 663, 285-292, (2022)
+> <span style="font-style: normal;"> [3] B Kang, B Kim, S Hong, “Sequential Optimization of a Temporary Storage Location for Cooperative Twin Overhead Shuttles in a Rail-based Automated Container Terminal”, <em>IFIP International Conference on Advances in Production Management Systems</em>, 663, 285-292, (2022)
 >
-> <span style="font-style: normal;"> [C4] J Park, HY Fibrianto, S Hong, "Order Batching and sequencing in a sequential zone order picking system with consideration of workload balance", <em>Proceedings of the IISE Annual Conference & Expo 2022</em>, Accepted
+> <span style="font-style: normal;"> [4] J Park, HY Fibrianto, S Hong, "Order Batching and sequencing in a sequential zone order picking system with consideration of workload balance", <em>Proceedings of the IISE Annual Conference & Expo 2022</em>, Accepted
 >
-> <span style="font-style: normal;"> [C5] B Kang,  P Joatiko, J Park, S Hong, 2022. “Yard Template Planning in a Transhipment Hub using Gaussian Process Regression", <em> Proceedings of the 2022 Winter Simulation Conference</em>, 1979-1989, 2022.
+> <span style="font-style: normal;"> [5] B Kang,  P Joatiko, J Park, S Hong, 2022. “Yard Template Planning in a Transhipment Hub using Gaussian Process Regression", <em> Proceedings of the 2022 Winter Simulation Conference</em>, 1979-1989, 2022.
 >
-> <span style="font-style: normal;"> [C6] B Kim, HY Fibrianto, S Hong, "The effect on a handshake operation between twin overhead shuttle cranes under demand uncertainty", <em>49th International Conference on Computers and Industrial Engineering 2019</em>, 1496-1505, Computers and Industrial Engineering, 2019-10
+> <span style="font-style: normal;"> [6] B Kim, HY Fibrianto, S Hong, "The effect on a handshake operation between twin overhead shuttle cranes under demand uncertainty", <em>49th International Conference on Computers and Industrial Engineering 2019</em>, 1496-1505, Computers and Industrial Engineering, 2019-10
 >
-> <span style="font-style: normal;"> [C7] J Lee, Y Kim and S Hong, "Modelling a batch assorting operation for an autonomous cart in a parallel-aisle order assorting system", <em>2019 IEEE 15th International Conference on Automation Science and Engineering (CASE)</em>, 2019, pp. 60-65, doi: 10.1109/COASE.2019.8843189.
+> <span style="font-style: normal;"> [7] J Lee, Y Kim and S Hong, "Modelling a batch assorting operation for an autonomous cart in a parallel-aisle order assorting system", <em>2019 IEEE 15th International Conference on Automation Science and Engineering (CASE)</em>, 2019, pp. 60-65, doi: 10.1109/COASE.2019.8843189.
+>
+> <span style="font-style: normal;"> [8] S Hong, AL Johnson, and BA Peters, 2014. “Order batching with time constraints in a parallel-aisle warehouse: A multiple-policy approach,” <em> Progress in Material Handling Research</em>, Book Chapter, Material Handling Industry of America, book chapter </span>
+>
+> <span style="font-style: normal;"> [9] S Hong, AL Johnson, and BA Peters, 2010. “Analysis of picker blocking in narrow-aisle batch picking,” <em>Progress in Material Handling Research</em>, Material Handling Industry of America, 366-378, book chapter </span>
+>
