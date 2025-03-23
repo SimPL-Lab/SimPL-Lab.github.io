@@ -9,6 +9,19 @@ layout: single
 ## Journal Articles
 
 ### 2021 ~ Present
+__2025__
+>
+> <span style="font-style: normal;"> [1]  J Park, S Hong, “Optimizing Blocking and Starving Delays in Sequential Zone Order Picking Systems through Time-Decomposed Workload Balancing,” <em>Computers & Operations Research</em>, 180, 107060 (2025) </span>
+>
+> <span style="font-style: normal;"> [K1]  S Eom, S Lee, B Kim, S Hong, “A Simulation-Based Scheduling Study for Robust Optimal Solutions in Automotive Pipe Production Process,” <em>Journal of the Korea Society for Simulation</em>, Accepted (2025) </span>
+>
+> <span style="font-style: normal;"> [K2] J Kim, W Choo, B Kang, S Hong, “A Comparative Study of Surrogate Models for Simulation-based Yard Template Planning in a Container Terminal,” <em>Journal of the Korea Society for Simulation</em>, Accepted (2025) </span>
+>
+> <span style="font-style: normal;"> [K3] TH Tran-Vo, G Lee, S Hong, “Worker scheduling in a multi-depot warehouse employing pick-pack switching policy,” <em>Journal of the Korean Institute of Industrial Engineers</em>, Accepted (2025) </span>
+>
+> <span style="font-style: normal;"> [K4] TH Tran-Vo, G Lee, S Hong, “Performance Evaluation of Dual-lane Conveyor Configuration with FCFS Sequencing in Zone-based Order Picking and Packing Systems,” <em>Korea Logistics Review</em>, 33(1), 71-83 (2025) </span>
+>
+
 __2024__
 >
 > <span style="font-style: normal;"> [1] B Kang, C Park, H Kim, S Hong, “Bayesian Optimization for the Vehicle Dwelling Policy in Semiconductor Wafer Fab”, <em>IEEE Transactions on Automation Science and Engineering</em>, 21(4), 5942-5952 (2024) </span>
