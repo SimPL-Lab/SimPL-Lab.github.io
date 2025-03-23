@@ -132,6 +132,7 @@ __2015__
 >
 > <span style="font-style: normal;"> [C1] S Hong, "Order batch formations for less picker blocking in a narrow-aisle picking system",<em> Industrial Engineering & Management Systems</em>, 14 (3), 289-298 (2015) </span>
 >
+
 __2014__
 >
 > <span style="font-style: normal;"> [1] S Hong, “Two-worker blocking model with walk speed m in a narrow circular passage system”, <em>European Journal of Operational Research</em>, 235(3), 687-696 (2014) </span>
