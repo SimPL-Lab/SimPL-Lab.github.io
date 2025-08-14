@@ -30,7 +30,6 @@ layout: single
 >[Additional Information](https://sites.google.com/view/taehoon-lee?usp=sharing)  
 > <br>
 > <br>
-> <br>
 >* __Bosung Kim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >PhD Candidate (MS 2017~2019, PhD Fall 2019~)  
@@ -38,15 +37,6 @@ layout: single
 >OR applications: Optimization, Simulation, Meta heuristics   
 >Teaching assistance (Facilities planning & material handling systems)  
 > <br>
-> <br>
-> <br>
-> <br>
->* __Tran Vo Thao Huong__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->PhD Candidate (PhD Fall 2021~)  
->Research Interest: Logistics systems, Order picking  
->OR applications: Simulation, Machine learning, Large-scale optimization  
-> <br> 
 > <br>
 > <br>
 >* __Juho Lee__  
@@ -94,14 +84,6 @@ layout: single
 > <br>
 
 ## MS Students
->* __Hyunjung Yoon__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->MS Student (MS Spring 2023~)  
->Research Interest: Statistical analysis and Optimization  
->OR applications: Simulation   
-> <br>
-> <br>
-> <br>
 >* __Sangcheon Eom__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Sangcheon_Eom.jpg">
 >MS Student (MS Spring 2024~)  
@@ -131,15 +113,6 @@ layout: single
 > <br>
 > <br>
 > <br>
->* __Dohun Kim__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->MS Student (MS Spring 2025~)  
->Research Interest: Simulation optimization  
-> <br>
-> <br>
-> <br>
-> <br>
-> <br>
 >* __Jonghyeon Chun__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >MS Student (MS Spring 2025~)  
@@ -148,11 +121,9 @@ layout: single
 > <br>
 > <br>
 > <br>
-
-## Integrated BS/MS Students
 >* __Sangwon Kim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Sangwon_Kim.jpg">
->Undergraduate Student (joined in Spring 2024)  
+>MS Student (MS Fall 2025~)  
 >Research Interest: Optimization, Ranking and selection
 > <br>
 > <br>
@@ -161,46 +132,19 @@ layout: single
 > <br> 
 > <br> 
 > <br> 
->* __Sehee Choi__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->Undergraduate Student (joined in Summer 2024)  
->Research Interest: Simulation optimization, Meta heuristic 
-> <br>
-> <br>
-> <br>
-> <br>
-> <br>
 >* __Jihyeon Ryu__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->Undergraduate Student (joined in Summer 2024)  
+>MS Student (MS Fall 2025~)  
 >Research Interest: Simulation optimization
 > <br>
 > <br>
 > <br>
 > <br>
 > <br>
-
-## Undergraduate Students
->* __Jihye Choi__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->Undergraduate Student (joined in Fall 2023)  
->Research Interest: Simulation, Smart factory, Reinforcement learning  
 > <br>
-> <br>
-> <br>
-> <br>
->* __Juhwan Kim__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->Undergraduate Student (joined in Spring 2024)  
->Research Interest: Simulation, Smart factory, Statistical analysis
-> <br>
-> <br>
-> <br>
-> <br>
-> <br>   
 >* __Yejin Kim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->Undergraduate Student (joined in Winter 2024)  
+>MS Student (MS Fall 2025~)  
 >Research Interest: Simulation Optimization, Material handling
 > <br>
 > <br>
@@ -208,7 +152,54 @@ layout: single
 > <br>
 > <br>
 
+## Undergraduate Students
+>* __Sehee Choi__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>Undergraduate Student (joined in Summer 2024)  
+>Research Interest: Simulation optimization, Meta heuristic
+> <br>
+> <br>
+> <br>
+> <br>
+> <br>
+>* __Hyungkwon Ahn__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>Undergraduate Student (joined in Summer 2025)  
+>Research Interest: Smart factory, Statistical analysis 
+> <br>
+> <br>
+> <br>
+> <br>
+> <br>
+>* __Donguk Kim__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>Undergraduate Student (joined in Summer 2025)  
+>Research Interest: Simulation optimization
+> <br>
+> <br>
+> <br>
+> <br>   
+> <br>
+
 ## Former Students
+>
+>__Juhwan Kim__   
+>BS degree (graduated in 2025)  
+>
+>__Tran Vo Thao Huong__   
+>PhD degree (graduated in 2025)
+>
+>__Hyunjung Yoon__   
+>MS degree (graduated in 2024)  
+>Affiliation: CJ Logistics Corporation
+>
+>__Dohun Kim__  
+>BS degree(graduated in 2024)  
+>Affiliation: Hyundai Rotem
+>
+>__Jihye Choi__  
+>BS degree(graduated in 2024)  
+>Affiliation: SK hynix
 >
 >__Yechan Lee__  
 >BS degree(graduated in 2024)  
@@ -291,3 +282,4 @@ layout: single
 >__Jeonghwan Kim__   
 >MS degree (graduated in 2017)  
 >Affiliation: Korea Institute of Science and Technology Information (KISTI, 한국과학기술정보연구원)  
+
