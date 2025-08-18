@@ -187,7 +187,8 @@ layout: single
 >BS degree (graduated in 2025)  
 >
 >__Tran Vo Thao Huong__   
->PhD degree (graduated in 2025)
+>PhD degree (graduated in 2025)      
+>Affiliation: Assistant Professor, Department of Industrial Systems Engineering, Ho Chi Minh City University of Technology
 >
 >__Hyunjung Yoon__   
 >MS degree (graduated in 2024)  
