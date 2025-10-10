@@ -15,7 +15,9 @@ __2025__
 >
 > <span style="font-style: normal;"> [2] B Kang, C Park, H Kim, S Hong, “A digital twin calibration for an automated material handling system in a semiconductor fab,” <em> Journal of Manufacturing Systems</em>, 80, 1013-1028 (2025) </span>
 > 
-> <span style="font-style: normal;"> [3] TH Tran-Vo, Y Ko, S Hong,  The benefits of a dual-lane zone picking system with buffer-free conveyor lanes: An analytical approach. <em>Computers & Industrial Engineering</em>, 111278 (2025) </span>
+> <span style="font-style: normal;"> [3] TH Tran-Vo, Y Ko, S Hong,  "The benefits of a dual-lane zone picking system with buffer-free conveyor lanes: An analytical approach," <em>Computers & Industrial Engineering</em>, 111278 (2025) </span>
+>
+> <span style="font-style: normal;"> [4] C Park, R Waelder, B Kang, B Maruyama, S Hong, R Gramacy, "Active Learning of Piecewise Gaussian Process Surrogates," <em>Technometrics</em>, in press (2025)  </span>
 >
 > <span style="font-style: normal;"> [K1] TH Tran-Vo, G Lee, S Hong, “Worker scheduling in a multi-depot warehouse employing pick-pack switching policy,” <em>Journal of the Korean Institute of Industrial Engineers</em>, 51(2), 139-146 (2025) </span>
 >
