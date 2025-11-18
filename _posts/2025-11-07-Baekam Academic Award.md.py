@@ -21,7 +21,7 @@ Professor Soondo Hong received the Baekam Academic Award at the 2025 Fall Confer
 
 The Baekam Academic Award is a prestigious honor presented by KIIE to recognize the most academically and industrially impactful research among outstanding papers published in the Journal of the Korean Institute of Industrial Engineers within the past three years. The award is given to one individual among the corresponding author or up to two co-authors of the selected paper and was established to promote academic advancement and active research in the field of industrial engineering.
 
-As the representative awardee, Professor Hong was recognized for the paper “Worker Scheduling in a Multi-depot Warehouse Employing Pick-pack Switching Policy,” published in the Journal of the Korean Institute of Industrial Engineers, Vol. 51, No. 2 (April 2025). Through active research in manufacturing logistics and simulation, he has made significant contributions to the advancement of industrial engineering in Korea.
+As the representative awardee, Professor Hong was honored for his research contributions. The Simulation & Production Logistics Laboratory continues to make significant contributions to the development of industrial engineering in Korea through active research in manufacturing logistics and simulation.
 <br>
 <span style="font-size: 16px; font-weight: bold;">Congratulations!</span>
 
