@@ -11,6 +11,10 @@ layout: single
 
 
 ## Research & Industry Projects
+15. Digital Transformation: Sustainability-driven Digital Twin for Logistics Systems (2026.02 ~ 2029.02, International cooperation program managed by the National Research Foundation of Korea, PI)
+
+14. AI-based AGV template planning for a U-shaped automated container terminal (2026.01 ~ 2026.12, Jungseok Logistics Foundation, PI)
+
 13. Intelligent and Collaborative Operations in Automated Material Systems (2023.03 ~ 2026.02, Samsung Display, PI)
 
 12. Developing a Digital Twin System and Service Technologies for Port Logistics Using Data Network AI (2024.1~2024.2, 2024.8~2025.1, Regional Innovation Strategy Project managed by the National Research Foundation of Korea, PI)

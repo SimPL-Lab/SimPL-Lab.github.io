@@ -9,6 +9,14 @@ layout: single
 ## Journal Articles
 
 ### 2021 ~ Present
+__2026__
+>
+> <span style="font-style: normal;"> [K1] B Kim, J Ryu, M Hong, S Hong, "Flow time analysis of a twin crane AS/RS with connected material handling system," <em>Journal of the Korean Institute of Industrial Engineers</em>, 49(1) (2026) </span>
+>
+> <span style="font-style: normal;"> [K2] B Kim, M Hong, S Hong, "A fitness function for job assignment considering interference in a twin crane stocker,"  <em>Journal of the Korea Society for Simulation</em>, 35(1) (2026) </span>
+>
+
+
 __2025__
 >
 > <span style="font-style: normal;"> [1] J Park, S Hong, “Optimizing Blocking and Starving Delays in Sequential Zone Order Picking Systems through Time-Decomposed Workload Balancing,” <em>Computers & Operations Research</em>, 180, 107060 (2025) </span>
