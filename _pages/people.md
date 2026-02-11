@@ -7,19 +7,6 @@ toc_label: "People"
 layout: single
 ---
 
-## Postdoctoral Research Fellow
->* __Bonggwon Kang__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Bonggwon_Kang.jpg">
->Ph.D (MS/PhD Fall 2019~2024)  
->Research Interest: Simulation modeling and analysis, Simulation-based optimization  
->OR applications: Simulation, Machine learning, Meta heuristics  
->Teaching assistance (Simulation, Facilities planning & material handling systems)  
->[Additional Information](https://sites.google.com/view/bonggwon-kang) 
-> <br>
-> <br>
-> <br>
-> <br>
-
 ## PhD Candidates and Students
 >* __Taehoon Lee__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Taehoon_Lee.jpg">
@@ -182,13 +169,16 @@ layout: single
 > <br>
 
 ## Former Students
->
 >__Juhwan Kim__   
 >BS degree (graduated in 2025)  
 >
 >__Tran Vo Thao Huong__   
 >PhD degree (graduated in 2025)      
 >Affiliation: Assistant Professor, Department of Industrial Systems Engineering, Ho Chi Minh City University of Technology
+>
+>__Bonggwon Kang__  
+>MS, Ph.D degree (graduated in 2024)
+><br>Affiliation: Assistant Professor, Department of Industrial Engineering, Kumoh National Institute of Technology
 >
 >__Hyunjung Yoon__   
 >MS degree (graduated in 2024)  
