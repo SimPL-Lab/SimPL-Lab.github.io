@@ -19,7 +19,7 @@ layout: single
 > <br>
 >* __Bosung Kim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->PhD Candidate (MS 2017~2019, PhD Fall 2019~)  
+>PhD Candidate (MS 2017~2019, PhD Fall 2019~Spring 2020, Spring 2023~)  
 >Research Interest: Analysis and Scheduling of Twin-mobility System  
 >OR applications: Optimization, Simulation, Meta heuristics   
 >Teaching assistance (Facilities planning & material handling systems)  
@@ -110,7 +110,7 @@ layout: single
 > <br>
 >* __Sangwon Kim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Sangwon_Kim.jpg">
->MS Student (MS Fall 2025~)  
+>MS Student (MS Fall 2025~Winter 2025, Winter 2027~)  
 >Research Interest: Optimization, Ranking and selection
 > <br>
 > <br>
