@@ -93,7 +93,7 @@ layout: single
 >* __Tong Thi Khanh Huyen__
 > <br>
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->MS Student (MS Fall 2024~)  
+>MS Student (MS Fall 2024~Summer 2025, Fall 2026~)  
 >Research Interest: Simulation, Layout design                  
 >OR applications: Machine learning   
 > <br>
@@ -162,6 +162,15 @@ layout: single
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >Undergraduate Student (joined in Summer 2025)  
 >Research Interest: Simulation optimization
+> <br>
+> <br>
+> <br>
+> <br>   
+> <br>
+>* __Jaeyeon Jeon__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>Undergraduate Student (joined in Winter 2025)  
+>Research Interest: Simulation optimization, Meta heuristic
 > <br>
 > <br>
 > <br>

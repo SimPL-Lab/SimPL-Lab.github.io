@@ -9,7 +9,6 @@ categories:
 tags:
   - Book
 last_modified_at: 2025-09-16
-pin_home: true
 ---
 <div align="center"><img align="center" width="400" height="700" style="border: 1px solid white" src="/assets/images/Production Logistics System Simulation Modeling.jpg"></div>
 <br>
