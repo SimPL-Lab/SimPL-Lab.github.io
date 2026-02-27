@@ -149,6 +149,15 @@ layout: single
 > <br>
 > <br>
 > <br>
+>* __Jaeyeon Jeon__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>Undergraduate Student (joined in Winter 2024)  
+>Research Interest: Simulation optimization, Meta heuristic
+> <br>
+> <br>
+> <br>
+> <br>   
+> <br>
 >* __Hyungkwon Ahn__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >Undergraduate Student (joined in Summer 2025)  
@@ -167,15 +176,7 @@ layout: single
 > <br>
 > <br>   
 > <br>
->* __Jaeyeon Jeon__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->Undergraduate Student (joined in Winter 2025)  
->Research Interest: Simulation optimization, Meta heuristic
-> <br>
-> <br>
-> <br>
-> <br>   
-> <br>
+
 
 ## Former Students
 >__Juhwan Kim__   
