@@ -7,7 +7,7 @@ toc_label: "People"
 layout: single
 ---
 
-## PhD Candidates and Students
+## PhD Students
 >* __Taehoon Lee__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Taehoon_Lee.jpg">
 >PhD Candidate (MS 2018~2019, PhD Fall 2019~)  
@@ -26,23 +26,6 @@ layout: single
 > <br>
 > <br>
 > <br>
->* __Juho Lee__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->PhD Candidate (PhD Spring 2021~)  
->Research Interest:  Optimization and Simulation in Manufacturing Area, Machine Learning  
->OR applications: Simulation, Machine learning  
-> <br>
-> <br>
-> <br>
->* __Jangeun Kim__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->PhD Candidate (PhD Spring 2022~)  
->Research Interest: RCPSP              
->OR applications: MILP, Game theory, Meta heuristics
-> <br>
-> <br>
-> <br>
-> <br>
 >* __Gwangheon Lee__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Gwangheon_Lee.jpg">
 >PhD Student (MS 2022~2023, PhD Spring 2024~)  
@@ -53,34 +36,8 @@ layout: single
 > <br>
 > <br>
 > <br> 
->* __Jeonghwan Kim__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->PhD Student (MS 2015~2017, PhD Spring 2024~)  
->Research Interest:   
->OR applications:   
-> <br>
-> <br>
-> <br>
->* __Hyunju Cho__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->PhD Student (PhD Spring 2024~)  
->Research Interest:   
->OR applications:   
-> <br>
-> <br>
-> <br>
 
 ## MS Students
->* __Sangcheon Eom__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Sangcheon_Eom.jpg">
->MS Student (MS Spring 2024~)  
->Research Interest: Material Handling  
->OR applications: Simulation, Machine learning   
-> <br>
-> <br>
-> <br>
-> <br>
-> <br>
 >* __Hoyong Choi__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >MS Student (MS Fall 2024~)  
@@ -132,9 +89,71 @@ layout: single
 >* __Yejin Kim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >MS Student (MS Fall 2025~)  
->Research Interest: Simulation Optimization, Material handling
+>Research Interest: Simulation Optimization, Material handling  
 > <br>
 > <br>
+> <br>
+> <br>
+> <br>
+>* __Bosung Park__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>MS Student (MS Spring 2026~)  
+>Research Interest: Simulation Optimization  
+> <br>
+> <br>
+> <br>
+> <br>
+> <br>
+>* __Taegeun Hong__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>MS Student (MS Spring 2026~)  
+>Research Interest: Simulation Optimization  
+> <br>
+> <br>
+> <br>
+> <br>
+> <br>
+
+## Industrial and Affiliated PhD and Master Students
+>* __Juho Lee__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>PhD Candidate (PhD Spring 2021~)  
+>Research Interest:  Optimization and Simulation in Manufacturing Area, Machine Learning  
+>OR applications: Simulation, Machine learning  
+> <br>
+> <br>
+> <br>
+>* __Jangeun Kim__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>PhD Candidate (PhD Spring 2022~)  
+>Research Interest: RCPSP              
+>OR applications: MILP, Game theory, Meta heuristics
+> <br>
+> <br>
+> <br>
+> <br>
+>* __Jeonghwan Kim__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>PhD Student (MS 2015~2017, PhD Spring 2024~)  
+>Research Interest:   
+>OR applications:   
+> <br>
+> <br>
+> <br>
+>* __Hyunju Cho__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>PhD Student (PhD Spring 2024~)  
+>Research Interest:   
+>OR applications:   
+> <br>
+> <br>
+> <br>
+>* __DaeHeai Lee__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>MS Student (MS Spring 2026~)  
+>Affiliation: LS Metal, Project Management Team   
+>Research Interest:   
+>OR applications:   
 > <br>
 > <br>
 > <br>
@@ -179,6 +198,9 @@ layout: single
 
 
 ## Former Students
+>__Sangcheon Eom__  
+> MS degree (graduated in 2026)  
+>
 >__Juhwan Kim__   
 >BS degree (graduated in 2025)  
 >
