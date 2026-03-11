@@ -198,6 +198,10 @@ layout: single
 
 
 ## Former Students
+>__Sunghyun Lim__  
+> BS degree (graduated in 2025)
+><br>Affiliation: Korean Air
+>
 >__Sangcheon Eom__  
 > MS degree (graduated in 2026)  
 >
@@ -243,7 +247,7 @@ layout: single
 >
 >__Jungtae Park__  
 >MS degree (graduated in 2024)  
->Affiliation: Hwaseung R&A
+>Affiliation: Cadians System
 >
 >__Gwanguk Han__  
 >PhD candidate (graduated in 2024)  
