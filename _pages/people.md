@@ -8,15 +8,6 @@ layout: single
 ---
 
 ## PhD Students
->* __Taehoon Lee__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Taehoon_Lee.jpg">
->PhD Candidate (MS 2018~2019, PhD Fall 2019~)  
->Research Interest: Analysis and Optimization of Material handling operations in distribution centers  
->OR applications: Optimization, Simulation    
->Teaching assistance (Simulation, Engineering economy, Operations management, Facilities planning & material handling systems)           
->[Additional Information](https://sites.google.com/view/taehoon-lee?usp=sharing)  
-> <br>
-> <br>
 >* __Bosung Kim__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >PhD Candidate (MS 2017~2019, PhD Fall 2019~Spring 2020, Spring 2023~)  
@@ -115,6 +106,15 @@ layout: single
 > <br>
 
 ## Industrial and Affiliated PhD and Master Students
+>* __Taehoon Lee__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Taehoon_Lee.jpg">
+>PhD Candidate (MS 2018~2019, PhD Fall 2019~)  
+>Research Interest: Analysis and Optimization of Material handling operations in distribution centers  
+>OR applications: Optimization, Simulation    
+>[Additional Information](https://sites.google.com/view/taehoon-lee?usp=sharing)  
+> <br>
+> <br>
+> <br>
 >* __Juho Lee__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >PhD Candidate (PhD Spring 2021~)  
@@ -198,12 +198,17 @@ layout: single
 
 
 ## Former Students
->__Sunghyun Lim__  
-> BS degree (graduated in 2025)
-><br>Affiliation: Korean Air
->
 >__Sangcheon Eom__  
-> MS degree (graduated in 2026)  
+>MS degree (graduated in 2026)  
+>Affiliation: POSCO DX  
+>
+>__Hyowon Choi__  
+>BS degree (graduated in 2025)  
+>Affiliation: SIEMENS  
+>
+>__Sunghyun Lim__  
+>BS degree (graduated in 2025)  
+>Affiliation: Korean Air  
 >
 >__Juhwan Kim__   
 >BS degree (graduated in 2025)  
@@ -257,15 +262,31 @@ layout: single
 >MS degree (graduated in 2023)  
 >Affiliation: Department of Industrial Engineering, Arizona State University  
 > 
->__Hoyoung Kim__   
+>__Hoyoung Kim__  
 >MS degree (graduated in 2023)  
 >Affiliation: CJ Logistics Corporation  
->Division: Optimization Solution Division, Center Optimization Team   
-> 
+>Division: Optimization Solution Division, Center Optimization Team  
+>
+>__Sangil Kang__  
+>BS degree (graduated in 2022)  
+>Affiliation: Korea Housing Finance Corporation (HF, 주택금융공사)  
+>
 >__Gwanguk Han__   
 >MS degree (graduated in 2022)  
 >Affiliation: Department of Industrial Engineering, Pusan National University  
 >  
+>__Soyoung Lee__  
+>BS degree (graduated in 2021)  
+>Affiliation: SK Telecom
+>
+>__Seokha Lee__  
+>BS degree (graduated in 2021)  
+>Affiliation: LG Energy Solution
+>  
+>__Woojin Shin__  
+>BS degree (graduated in 2021)  
+>Affiliation: Assistant Professor, Department of Industrial Engineering, Gyeongsang National University  
+>
 >__Seongpil Kim__   
 >MS degree (graduated in 2020)   
 >Affiliation: Korea Evaluation Institute Of Industrial Technology (KEIT, 한국산업기술평가관리원)  
