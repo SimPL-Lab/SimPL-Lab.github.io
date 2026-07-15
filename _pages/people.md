@@ -109,6 +109,7 @@ layout: single
 >* __Taehoon Lee__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Taehoon_Lee.jpg">
 >PhD Candidate (MS 2018~2019, PhD Fall 2019~)  
+>Affiliation: Cadians System  
 >Research Interest: Analysis and Optimization of Material handling operations in distribution centers  
 >OR applications: Optimization, Simulation    
 >[Additional Information](https://sites.google.com/view/taehoon-lee?usp=sharing)  
