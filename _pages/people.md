@@ -169,16 +169,6 @@ layout: single
 > <br>
 > <br>
 > <br>
->* __Jaeyeon Jeon__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->Undergraduate Student (joined in Winter 2024)  
->Affiliation: HD Hyundai Heavy Industries  
->Research Interest: Simulation optimization, Meta heuristic
-> <br>
-> <br>
-> <br>
-> <br>   
-> <br>
 >* __Hyungkwon Ahn__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >Undergraduate Student (joined in Summer 2025)  
@@ -200,13 +190,13 @@ layout: single
 
 
 ## Former Students
+>__Jaeyeon Jeon__  
+>BS degree (graduated in 2026)  
+>Affiliation: HD Hyundai Heavy Industries
+>
 >__Sangcheon Eom__  
 >MS degree (graduated in 2026)  
 >Affiliation: POSCO DX  
->
->__Hyowon Choi__  
->BS degree (graduated in 2025)  
->Affiliation: SIEMENS  
 >
 >__Sunghyun Lim__  
 >BS degree (graduated in 2025)  
@@ -222,6 +212,10 @@ layout: single
 >__Bonggwon Kang__  
 >MS, Ph.D degree (graduated in 2024)
 ><br>Affiliation: Assistant Professor, Department of Industrial Engineering, Kumoh National Institute of Technology
+>
+>__Hyowon Choi__  
+>BS degree (graduated in 2024)  
+>Affiliation: SIEMENS  
 >
 >__Hyunjung Yoon__   
 >MS degree (graduated in 2024)  
