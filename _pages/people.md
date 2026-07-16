@@ -172,6 +172,7 @@ layout: single
 >* __Jaeyeon Jeon__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >Undergraduate Student (joined in Winter 2024)  
+>Affiliation: HD Hyundai Heavy Industries  
 >Research Interest: Simulation optimization, Meta heuristic
 > <br>
 > <br>
