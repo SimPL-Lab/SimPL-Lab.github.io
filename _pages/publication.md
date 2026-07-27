@@ -11,7 +11,9 @@ layout: single
 ### 2021 ~ Present
 __2026__
 >
-> <span style="font-style: normal;"> [1] Park, C., Waelder, R., Kang, B., Maruyama, B., Hong, S., & Gramacy, R. B., Active Learning of Piecewise Gaussian Process Surrogates. <em>Technometrics</em>, 68(1), 186–201 (2026) </span>
+> <span style="font-style: normal;"> [1] C Park, R Waelder, B Kang, B Maruyama, S Hong, RB Gramacy, "Active Learning of Piecewise Gaussian Process Surrogates," <em>Technometrics</em>, 68(1), 186–201 (2026) </span>
+>
+> <span style="font-style: normal;"> [2] B Kang, T Lee, Z Sun, S Hong, "Uncertainty-aware simulation optimisation for yard template planning in transshipment hubs," <em>International Journal of Production Research</em>, 1-20 (2026) </span>
 >
 > <span style="font-style: normal;"> [K1] S Kim, H Lee, S Hong, “Joint Optimization Of Module Size And Class-Based Storage Policy In Robotic Mobile Fulfillment System,” <em>Journal of Logistics Science & Technology</em>, 7(1), 36-52 (2026) </span>
 >
@@ -19,7 +21,8 @@ __2026__
 >
 > <span style="font-style: normal;"> [K3] B Kim, M Hong, S Hong, “A fitness function for job assignment considering interference in a twin crane stocker,” <em>Journal of the Korea Society for Simulation</em>, 35(1), 53-63 (2026) </span>
 >
-
+> <span style="font-style: normal;"> [K4] J Chun, B Kim, M Hong, S Hong, “Bayesian Optimization for Weight-based Dispatching of Stocker Systems in a Display Fab,” <em>Journal of Korean Society of Industrial and Systems Engineering</em>, 49(2), 142-152 (2026) </span>
+>
 
 __2025__
 >
