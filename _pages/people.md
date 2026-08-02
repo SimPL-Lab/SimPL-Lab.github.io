@@ -29,15 +29,6 @@ layout: single
 > <br> 
 
 ## MS Students
->* __Hoyong Choi__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->MS Student (MS Fall 2024~)  
->Research Interest: Simulation, Statistical analysis  
->OR applications: Simulation
-> <br>
-> <br>
-> <br>
-> <br>
 >* __Tong Thi Khanh Huyen__
 > <br>
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
@@ -116,6 +107,15 @@ layout: single
 > <br>
 > <br>
 > <br>
+>* __Gwanguk Han__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>PhD Candidate (MS 2019~2022, PhD Spring 2022~)  
+>Affiliation: Hanwha Ocean
+>Research Interest:  
+>OR applications:  
+> <br>
+> <br>
+> <br>
 >* __Juho Lee__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >PhD Candidate (PhD Spring 2021~)  
@@ -144,15 +144,6 @@ layout: single
 >* __Hyunju Cho__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >PhD Student (PhD Spring 2024~)  
->Research Interest:   
->OR applications:   
-> <br>
-> <br>
-> <br>
->* __DaeHeai Lee__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->MS Student (MS Spring 2026~)  
->Affiliation: LS Metal, Project Management Team   
 >Research Interest:   
 >OR applications:   
 > <br>
@@ -190,6 +181,14 @@ layout: single
 
 
 ## Former Students
+>__Hoyong Choi__
+>MS degree (grduated in 2026)
+>Affiliation: Pusan National University Industrial AI Lab
+>
+>__DaeHeai Lee__  
+>MS degree (graduated in 2026)  
+>Affiliation: LS Metal, Project Management Team
+>   
 >__Jaeyeon Jeon__  
 >BS degree (graduated in 2026)  
 >Affiliation: HD Hyundai Heavy Industries
@@ -250,10 +249,6 @@ layout: single
 >MS degree (graduated in 2024)  
 >Affiliation: Cadians System
 >
->__Gwanguk Han__  
->PhD candidate (graduated in 2024)  
->Affiliation: Hanwha Ocean
->
 >__Jeongwon Park__  
 >MS degree (graduated in 2023)  
 >Affiliation: Department of Industrial Engineering, Arizona State University  
@@ -263,13 +258,13 @@ layout: single
 >Affiliation: CJ Logistics Corporation  
 >Division: Optimization Solution Division, Center Optimization Team  
 >
+>__Gwanguk Han__  
+>MS degree (graduated in 2022)  
+>Affiliation: Hanwha Ocean
+>
 >__Sangil Kang__  
 >BS degree (graduated in 2022)  
 >Affiliation: Korea Housing Finance Corporation (HF, 주택금융공사)  
->
->__Gwanguk Han__   
->MS degree (graduated in 2022)  
->Affiliation: Department of Industrial Engineering, Pusan National University  
 >  
 >__Soyoung Lee__  
 >BS degree (graduated in 2021)  
@@ -281,6 +276,7 @@ layout: single
 >  
 >__Woojin Shin__  
 >BS degree (graduated in 2021)  
+>MS, Ph.D. degree, KAIST  
 >Affiliation: Assistant Professor, Department of Industrial Engineering, Gyeongsang National University  
 >
 >__Seongpil Kim__   
