@@ -110,7 +110,7 @@ layout: single
 >* __Gwanguk Han__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >PhD Candidate (MS 2019~2022, PhD Spring 2022~)  
->Affiliation: Hanwha Ocean
+>Affiliation: Hanwha Ocean  
 >Research Interest:  
 >OR applications:  
 > <br>
@@ -181,8 +181,8 @@ layout: single
 
 
 ## Former Students
->__Hoyong Choi__
->MS degree (grduated in 2026)
+>__Hoyong Choi__  
+>MS degree (grduated in 2026)  
 >Affiliation: Pusan National University Industrial AI Lab
 >
 >__DaeHeai Lee__  
