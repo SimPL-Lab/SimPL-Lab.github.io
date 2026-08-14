@@ -238,16 +238,17 @@ layout: single
 >
 >__Jean Marne Gutierrez__  
 >MS degree (graduated in 2024)  
->Affiliation: Cebu Pacific Air        
->Division: Commercial Division 
+>Affiliation: Cebu Pacific Air   
+>Division: Commercial Division  
 >
 >__Rosi Ana Rahmawati__  
 >MS degree (graduated in 2024)  
->Affiliation: Global Halal Certification
+>Affiliation: Samudera Indonesia  
+>Division: Warehouse Operations, Management Trainee Program  
 >
 >__Jungtae Park__  
 >MS degree (graduated in 2024)  
->Affiliation: Cadians System
+>Affiliation: Cadians System  
 >
 >__Jeongwon Park__  
 >MS degree (graduated in 2023)  
