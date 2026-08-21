@@ -185,7 +185,7 @@ layout: single
 >MS degree (grduated in 2026)  
 >Affiliation: Pusan National University Industrial AI Lab
 >
->__DaeHeai Lee__  
+>__Daeheai Lee__  
 >MS degree (graduated in 2026)  
 >Affiliation: LS Metal, Project Management Team
 >   
