@@ -20,11 +20,11 @@ Dept. of Industrial and Systems Engineering, Texas A&M University, College Stati
   
 * M.S., Industrial Engineering, February 1996  
 Thesis: Development of Petri-net based execution module for heterarchical shop flow control system  
-Advisor: Professors Mooyoung Jung  
+Advisor: Professor Mooyoung Jung  
 Dept. of Industrial Engineering, Pohang University of Science and Technology (POSTECH), Pohang, Korea  
   
 * B.S., Industrial Engineering, February 1994  
-Advisor: Professors Euiseung Jung  
+Advisor: Professor Euiseung Jung  
 Dept. of Industrial Engineering, Pohang University of Science and Technology (POSTECH), Pohang, Korea  
 
 **Employment**  
