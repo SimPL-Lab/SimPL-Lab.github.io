@@ -183,7 +183,6 @@ layout: single
 ## Former Students
 >__Hoyong Choi__  
 >MS degree (grduated in 2026)  
->Affiliation: Pusan National University Industrial AI Lab
 >
 >__Daeheai Lee__  
 >MS degree (graduated in 2026)  
