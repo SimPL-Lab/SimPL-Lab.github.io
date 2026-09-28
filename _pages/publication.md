@@ -15,6 +15,8 @@ __2026__
 >
 > <span style="font-style: normal;"> [2] B Kang, T Lee, Z Sun, S Hong, "Uncertainty-aware simulation optimisation for yard template planning in transshipment hubs," <em>International Journal of Production Research</em>, 1-20 (2026) </span>
 >
+> <span style="font-style: normal;"> [3] G Lee, H Yoon, J Lee, K Jang, S Hong, "An adaptive sampling method for parallel simulation-based optimization in automated material handling systems," <em>Simulation Modelling Practice and Theory</em>, 153, 103354 (2026) </span>
+>
 > <span style="font-style: normal;"> [K1] S Kim, H Lee, S Hong, “Joint Optimization Of Module Size And Class-Based Storage Policy In Robotic Mobile Fulfillment System,” <em>Journal of Logistics Science & Technology</em>, 7(1), 36-52 (2026) </span>
 >
 > <span style="font-style: normal;"> [K2] B Kim, J Ryu, M Hong, S Hong, “Flow time analysis of a twin crane AS/RS with connected material handling system,” <em>Journal of Korean Society of Industrial and Systems Engineering</em>, 49(1), 1-9 (2026) </span>
