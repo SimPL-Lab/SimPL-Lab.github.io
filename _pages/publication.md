@@ -25,7 +25,8 @@ __2026__
 >
 > <span style="font-style: normal;"> [K4] J Chun, B Kim, M Hong, S Hong, “Bayesian Optimization for Weight-based Dispatching of Stocker Systems in a Display Fab,” <em>Journal of Korean Society of Industrial and Systems Engineering</em>, 49(2), 142-152 (2026) </span>
 >
-
+> <span style="font-style: normal;"> [K5] J Ryu, G Lee, S Hong, “Simulation-based Optimization of Railway Seat Capacity Allocation Considering Passengers’ Seat Selection,” <em>Korea Logistics Review</em>, 34(4), 1-9 (2026) </span>
+>
 __2025__
 >
 > <span style="font-style: normal;"> [1] J Park, S Hong, “Optimizing Blocking and Starving Delays in Sequential Zone Order Picking Systems through Time-Decomposed Workload Balancing,” <em>Computers & Operations Research</em>, 180, 107060 (2025) </span>
