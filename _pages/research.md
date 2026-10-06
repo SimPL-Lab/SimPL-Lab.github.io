@@ -11,6 +11,8 @@ layout: single
 
 
 ## Research & Industry Projects
+17. Mathematical Model-Driven Multimodal Intelligence for Equipment Digital Twins (2026.09 ~ 2027.08, Samsung Display, PI)
+
 16. Calibration and Optimization for Digital Twin-based Decision-making in Smart Factories (2026.03 ~ 2031.02, Core research program managed by the National Research Foundation of Korea, PI)
 
 15. Digital Transformation: Sustainability-driven Digital Twin for Logistics Systems (2026.02 ~ 2029.02, International cooperation program managed by the National Research Foundation of Korea, PI)
