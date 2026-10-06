@@ -29,16 +29,6 @@ layout: single
 > <br> 
 
 ## MS Students
->* __Tong Thi Khanh Huyen__
-> <br>
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->MS Student (MS Fall 2024~Summer 2025, Fall 2026~)  
->Research Interest: Simulation, Layout design                  
->OR applications: Machine learning   
-> <br>
-> <br>
-> <br>
-> <br>
 >* __Jonghyeon Chun__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >MS Student (MS Spring 2025~)  
@@ -47,17 +37,6 @@ layout: single
 > <br>
 > <br>
 > <br>
->* __Sangwon Kim__  
-><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Sangwon_Kim.jpg">
->MS Student (MS Fall 2025~Winter 2025, Winter 2027~)  
->Research Interest: Optimization, Ranking and selection
-> <br>
-> <br>
-> <br>
-> <br>
-> <br> 
-> <br> 
-> <br> 
 >* __Jihyeon Ryu__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >MS Student (MS Fall 2025~)  
@@ -95,7 +74,27 @@ layout: single
 > <br>
 > <br>
 > <br>
-
+>* __Sangwon Kim__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Sangwon_Kim.jpg">
+>MS Student (MS Fall 2025~Winter 2025, Winter 2027~)  
+>Research Interest: Optimization, Ranking and selection
+> <br>
+> <br>
+> <br>
+> <br>
+> <br> 
+> <br> 
+> <br> 
+>* __Tong Thi Khanh Huyen__
+> <br>
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>MS Student (MS Fall 2024~Summer 2025, Fall 2026~)  
+>Research Interest: Simulation, Layout design                  
+>OR applications: Machine learning   
+> <br>
+> <br>
+> <br>
+> <br>
 ## Industrial and Affiliated PhD and Master Students
 >* __Taehoon Lee__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Taehoon_Lee.jpg">
