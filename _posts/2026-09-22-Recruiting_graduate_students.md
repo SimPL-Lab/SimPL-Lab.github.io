@@ -10,5 +10,5 @@ tags:
   - Recruitment
 last_modified_at: 2026-09-22
 ---
-<img align="center" width="746" height="784" style="border: 1px solid white" src="/assets/images/연구실 홍보 포스터.jpg">
+<img align="center" width="746" height="784" style="border: 1px solid white" src="/assets/images/연구실 홍보 포스터2.png">
 
