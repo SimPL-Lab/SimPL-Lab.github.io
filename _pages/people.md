@@ -87,6 +87,14 @@ layout: single
 > <br> 
 
 ## Industrial and Affiliated PhD and Master Students
+>* __Sangsu Park__  
+><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
+>PhD Candidate (PhD Fall 2026~)  
+>Research Interest:  
+>OR applications:  
+> <br>
+> <br>
+> <br>
 >* __Taehoon Lee__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/Taehoon_Lee.jpg">
 >PhD Candidate (MS 2018~2019, PhD Fall 2019~)  
