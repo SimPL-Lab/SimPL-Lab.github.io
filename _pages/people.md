@@ -89,7 +89,7 @@ layout: single
 ## Industrial and Affiliated PhD and Master Students
 >* __Sangsu Park__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
->PhD Candidate (PhD Fall 2026~)  
+>PhD Student (PhD Fall 2026~)  
 >Research Interest:  
 >OR applications:  
 > <br>
