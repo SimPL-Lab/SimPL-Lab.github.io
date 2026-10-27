@@ -90,6 +90,7 @@ layout: single
 >* __Sangsu Park__  
 ><img align="left" width="150" height="150" style="border: 10px solid white" src="https://simfl-lab.github.io/assets/images/default_bio.jpg">
 >PhD Student (PhD Fall 2026~)  
+>Affiliation: SL F&F Co., Ltd.  
 >Research Interest:  
 >OR applications:  
 > <br>
