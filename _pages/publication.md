@@ -27,6 +27,8 @@ __2026__
 >
 > <span style="font-style: normal;"> [K5] J Ryu, G Lee, S Hong, “Simulation-based Optimization of Railway Seat Capacity Allocation Considering Passengers’ Seat Selection,” <em>Korea Logistics Review</em>, 34(4), 1-9 (2026) </span>
 >
+> <span style="font-style: normal;"> [K6] S Choi, J Jeon, B Kim, S Hong, “A Simulation-Based Study on Flexible Seat Capacity Allocation Policy for Railway Systems,” <em>Journal of the Korea Society for Simulation</em>, 35(3), 109-119 (2026) </span>
+>
 
 __2025__
 >
