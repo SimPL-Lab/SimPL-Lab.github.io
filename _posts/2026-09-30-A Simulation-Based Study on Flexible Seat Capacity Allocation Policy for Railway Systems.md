@@ -1,7 +1,7 @@
 ---
 title:  "A Simulation-Based Study on Flexible Seat Capacity Allocation Policy for Railway Systems"
 header:
-    teaser: "/assets/images/A Simulation-Based Study on Flexible Seat Capacity Allocation Policy for Railway Systems.png"
+    teaser: "/assets/images/A Simulation-Based Study on Flexible Seat Capacity Allocation Policy for Railway Systems.jpg"
 excerpt: "A new paper has been published in the Journal of the Korea Society for Simulation."
 author: "bosung.p"
 categories:
@@ -13,7 +13,7 @@ tags:
   - Simulation optimization
 last_modified_at: 2026-11-20
 ---
-<img align="center" width="746" height="784" style="border: 1px solid white" src="/assets/images/A Simulation-Based Study on Flexible Seat Capacity Allocation Policy for Railway Systems.png">
+<img align="center" width="746" height="784" style="border: 1px solid white" src="/assets/images/A Simulation-Based Study on Flexible Seat Capacity Allocation Policy for Railway Systems.jpg">
 
 Journal : Journal of the Korea Society for Simulation
 
